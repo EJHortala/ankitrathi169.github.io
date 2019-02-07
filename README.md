@@ -1,7 +1,13 @@
 # Ankit Rathi
 ## Data Science Architect
 
-Data Science Architect with around 13 years in data engineering/architecture and 5 years in data science. In my career, I have designed & developed many data intensive technology solutions using various tools in data architecture, data science, big data & cloud.
+Recently launched book: https://www.amazon.com/dp/B07N18VT5C
+
+Ankit Rathi is currently working as a Data Science Architect at SITA aero. He is a Data Science (ML/DL/AI) practitioner with more than a decade of demonstrated history of working in IT industry using Data & Analytics. His interest lies primarily in the theory & application of artificial intelligence, particularly in developing business applications for machine learning and deep learning. 
+
+Ankit's work at SITA aero has revolved around designing FlightPredictor product & building the CoE capability. Earlier as a Principal Consultant at Genpact HCM, Ankit architected and deployed machine learning pipelines for various clients across different industries like Insurance, F&A. He was previously a Tech Lead at RBS IDC where he designed and developed various data intensive applications in AML & Mortgages area. 
+
+Ankit is a well-known author for various publications (Towards Data Science, Analytics Vidhya etc) on Medium where he actively contributes by writing blog-posts on concepts & latest trends in Data Science. He is followed by 20K+ data science practitioners & enthusiasts on LinkedIn.
 
 –-----------------------------------------------------------------
 1. Blog•: https://medium.com/@rathi.ankit
@@ -9,7 +15,7 @@ Data Science Architect with around 13 years in data engineering/architecture and
 3. Kaggle°: https://www.kaggle.com/ankitrathi
 4. SlideShare•: https://www.slideshare.net/ankitrathi
 5. VisualCV: https://www.visualcv.com/ankit-rathi
-6. Webpage: https://ankitrathi.wixsite.com/home
+6. Webpage: http://ankitrathi.com
 
 • all views expressed in these articles are my own & do not represent my employer
 
@@ -17,12 +23,6 @@ Data Science Architect with around 13 years in data engineering/architecture and
 
 –-----------------------------------------------------------------
 
-Currently Lead Architect at SITA, the leading & innovative IT organization in ATI, delivering end-to-end analytics platforms using Data Science, Big Data & Cloud.
-
-Previously worked as a Tech Lead in RBS IDC, primarily focused on data architecture & data analytics projects using ErWin/ArchiMate, SQL/R/Python, Hadoop/Spark, AWS/GCP.
-
-Started my career with writing SQL queries, PL/SQL programming & DB/DWH/ETL/BI designing & development.
-
-Specialties: data strategy, data architecture, data science, big data, cloud computing
+Specialties: data science, data architecture, data strategy, big data, cloud computing
 
 Tools/Technologies: SQL, Python, R, Spark, Azure, AWS, TensorFlow, Cassandra, Hadoop, Pig, Hive, Tableau, PowerBI, Informatica, Oracle, SQL Server, Teradata, OBIEE
