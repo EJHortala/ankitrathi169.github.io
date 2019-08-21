@@ -1,7 +1,7 @@
 # Ankit Rathi
 ## Lead Architect - DS/AI
 
-Recently launched book: [Probability & Statistics for Data Science](https://www.amazon.com/dp/B07N18VT5C)
+Recently launched books: https://www.ankitrathi.com/books
 
 Ankit Rathi provides unique combination of Data Engineering (DB/ETL/DWH/BI)/Architecture (Data Management & Governance) & Data Science (ML/DL/AI) with more than a decade of demonstrated history of working in IT industry using Data & Analytics. His interest lies primarily in building end to end DS/AI applications/products following best practices of Data Engineering and Architecture . 
 
