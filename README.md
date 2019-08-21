@@ -11,23 +11,7 @@ Ankit is a well-known author for various publications (Data Deft, Towards Data S
 
 –-----------------------------------------------------------------
 
-[LinkedIn Profile](https://www.linkedin.com/in/ankitrathi/)
-
-[Medium Blog*](https://medium.com/@rathi.ankit)
-
-[GitHub Profile](https://github.com/ankitrathi169)
-
-[Kaggle Profile°](https://www.kaggle.com/ankitrathi)
-
-[SlideShare*](https://www.slideshare.net/ankitrathi)
-
-[Twitter Handle](https://twitter.com/rathiankit)
-
-[VisualCV Resume](https://www.visualcv.com/ankit-rathi)
-
-* all views expressed in these articles are my own & do not represent my employer
-
-° achieved 'Kaggle Expert' level on Kaggle Data Science platform in 2017
+[My Portfolio](https://www.ankitrathi.com/portfolio)
 
 –-----------------------------------------------------------------
 
