@@ -16,6 +16,8 @@
 
 ## Part III: AI Algorithms 
 
-### Chapter 6: ML Algorithms ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/ML_Algorithms.md))
+### Chapter 6: General Concepts ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/General_Concepts.md))
 
-### Chapter 7: DL Networks ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/DL_Networks.md))
+### Chapter 7: ML Algorithms ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/ML_Algorithms.md))
+
+### Chapter 8: DL Networks ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/DL_Networks.md))
