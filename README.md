@@ -2,7 +2,7 @@
 
 ## Part I: AI Introduction
 
-### Chapter 1: AI Introduction
+### Chapter 1: AI Introduction ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/AI_Introduction.md))
 
 ### Chapter 2: AI E2E Process
 
