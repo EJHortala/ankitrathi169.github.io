@@ -1,11 +1,13 @@
 # 1. Data Basics
 
-# 2. Data Models
+# 2. Data Analysis
 
-# 3. Data Architecture
+# 3. Data Models
 
-# 4. Data Technology
+# 4. Data Architecture
 
-# 5. Data Governance
+# 5. Data Technology
 
-# 6. Data Strategy
+# 6. Data Governance
+
+# 7. Data Strategy
