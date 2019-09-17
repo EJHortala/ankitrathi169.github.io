@@ -1,18 +1,20 @@
-# 1. k-Nearest Neighbors
+# 1. Machine Learning 
 
-# 2. Naive Bayes
+# 2. k-Nearest Neighbors
 
-# 3. Linear Regression
+# 3. Naive Bayes
 
-# 4. Logistic Regression
+# 4. Linear Regression
 
-# 5. Discriminant Analysis
+# 5. Logistic Regression
 
-# 6. Tree-Based Models
+# 6. Discriminant Analysis
 
-# 7. Support Vector Machines
+# 7. Tree-Based Models
 
-# 8. Bagging, Boosting & Stacking
+# 8. Support Vector Machines
+
+# 9. Bagging, Boosting & Stacking
 
 
 
