@@ -21,3 +21,9 @@
 ### Chapter 7: ML Algorithms ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/ML_Algorithms.md))
 
 ### Chapter 8: DL Networks ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/DL_Networks.md))
+
+## Part IV: Enterprise AI 
+
+### Chapter 9: AI Strategy ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/AI_Strategy.md))
+
+### Chapter 10: Operational AI ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Operational_AI.md))
