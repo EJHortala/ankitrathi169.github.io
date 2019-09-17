@@ -12,12 +12,14 @@
 
 ### Chapter 4: Python Foundation
 
-## Part IV: AI Algorithms
+### Chapter 5: Data Literacy for AI
 
-### Chapter 5: ML Algorithms
+## Part III: AI Algorithms
 
-### Chapter 6: DL Networks
+### Chapter 6: ML Algorithms
 
-## Part V: Data Literacy for AI
+### Chapter 7: DL Networks
 
-### Chapter 7: Data Literacy for AI
+
+
+
