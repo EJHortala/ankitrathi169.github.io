@@ -10,7 +10,7 @@
 
 ### Chapter 3: Mathematics for AI ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Mathematics_for_AI.md))
 
-### Chapter 4: Programming for AI ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Python_Foundation.md))
+### Chapter 4: Programming for AI ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Programming_for_AI.md))
 
 ### Chapter 5: Data Literacy for AI ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Data_Literacy_for_AI.md))
 
