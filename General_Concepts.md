@@ -1,7 +1,9 @@
-# 1. Model Selection & Cross-Validation
+# 1. Machine Learning & Deep Learning
 
-# 2. Regularization
+# 2. Model Selection & Cross-Validation
 
-# 3. Dimensionality Reduction
+# 3. Regularization
 
-# 4. Experimental Design
+# 4. Dimensionality Reduction
+
+# 5. Experimental Design
