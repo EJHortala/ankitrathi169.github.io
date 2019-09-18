@@ -1,16 +1,16 @@
 
 # 1.1 Why is AI important?
-- Impact on Society & Business
-- Empowering Better Decisions
-- Helping Informed Actions
-- Optimizing Operations
-- Opportunity Identification
-- Redefining Target Audience
-- Testing Decisions
-- Competitive Advantage
-- Improved Communication
+- Impacts Society & Business
+- Empower Better Decisions
+- Help Informed Actions
+- Optimize Operations
+- Enable Opportunity Identification
+- Redefine Target Audience
+- Test Decisions
+- Provides Competitive Advantage
+- Improves Communication
 - Better Web Searches
-- Improved Social Media
+- Improve Social Media
 
 ## Importance of AI
 
@@ -50,9 +50,34 @@ Can be classified into three different types of systems:
 
 # 1.3 Relation to Other Fields
 
+## Artificial Intelligence Vs Data Science
+![alt text](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Resources/AIvsDS.jpg)
+
+## Artificial Intelligence Vs Machine Learning Vs Deep Learning
+![alt text](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Resources/AIvsMLvsDL.png)
+
+## Artificial Intelligence Vs Data Mining
+![alt text](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Resources/AIvsDM.jpg)
+
 # 1.4 Breif History of AI
+![alt text](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Resources/AI_Timeline.jpeg)
 
-# 1.5 How to work with AI?
+# 1.5 Methods in AI
 
-# 1.6 Pre-requisites for AI
+## Search and Optimization
 
+## Logic
+
+## Probabilistic Methods
+
+## Statistical Learning
+
+## Artificial Neural Networks
+
+# 1.6 Limitations of AI
+
+## Turing Test
+
+## Artificial Brain
+
+## AI Effect
