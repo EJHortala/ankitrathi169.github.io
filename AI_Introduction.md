@@ -12,36 +12,41 @@
 - Better Web Searches
 - Improved Social Media
 
-## Travel
-- Dynamic Pricing
-- Predicting Flight Delays
+## Importance of AI
 
-## Marketing
-- Churn Prediction
-- Upselling/Cross-selling
-- Prediction Lifetime value of the customer
+![alt text](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Resources/WhyAI_1.jpg)
 
-## Healthcare
-- Disease Prediction
-- Medication Effectiveness
+## AI in Practice
 
-## Social Media
-- Sentiment Analysis
-- Digital Marketing
-
-## Sales
-- Discount Offering
-- Demand Forecasting
-
-## Automation
-- Self-driving Cars
-- Drones
-
-## Credit & Insurance
-- Clamis Prediction
-- Fraud & Risk Detection
+![alt text](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Resources/WhyAI_2.jpg)
 
 # 1.2 What is AI?
+
+- intelligence demonstrated by machines
+- that mimic "cognitive" functions
+- such as "learning" and "problem solving"
+- whatever hasn't been done yet
+
+Can be classified into three different types of systems: 
+- Analytical AI
+- Human-inspired AI
+- Humanized AI
+
+## Analytical AI
+- consistent with cognitive intelligence
+- using learning based on past experience
+- to inform future decisions
+
+## Human-inspired AI
+- cognitive and emotional intelligence
+- understanding human emotions
+- in addition to cognitive elements
+- considering them in their decision making
+
+## Humanized AI
+- all types of human competencies 
+- like cognitive, emotional, and social intelligence
+- self-conscious and self-aware 
 
 # 1.3 Relation to Other Fields
 
