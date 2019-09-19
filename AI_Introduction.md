@@ -1,5 +1,4 @@
-### Please note that this chapter is a general introduction to AI. Rest of the chapters focus on Machine Learning & Deep Learning part for AI.
-
+### Please note that this chapter is a general introduction to AI. Rest of the chapters focus on Machine Learning & Deep Learning part.
 
 # 1.1 Why is AI important?
 - Impacts Society & Business
