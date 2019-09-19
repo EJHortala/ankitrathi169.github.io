@@ -1,16 +1,18 @@
+### Please note that this chapter is a general introduction to AI. Rest of the chapters focus on Machine Learning & Deep Learning part for AI.
+
 
 # 1.1 Why is AI important?
 - Impacts Society & Business
-- Empower Better Decisions
-- Help Informed Actions
-- Optimize Operations
-- Enable Opportunity Identification
-- Redefine Target Audience
-- Test Decisions
+- Empowers Better Decisions
+- Helps Informed Actions
+- Optimizes Operations
+- Enables Opportunity Identification
+- Redefines Target Audience
+- Tests Decisions
 - Provides Competitive Advantage
 - Improves Communication
 - Better Web Searches
-- Improve Social Media
+- Improves Social Media
 
 ## Importance of AI
 
@@ -65,19 +67,56 @@ Can be classified into three different types of systems:
 # 1.5 Methods in AI
 
 ## Search and Optimization
+- Searching through many possible solutions
+- Reasoning can be reduced to performing a search
+- Simple exhaustive searches are rarely sufficient
+- Heuristics limit the search for solutions into a smaller sample size
+- Use of Optimization algorithms for effective search
 
 ## Logic
+- Used for knowledge representation and problem solving
+- Propositional logic[190] involves truth functions
+- Fuzzy set theory assigns a "degree of truth"
+- Fuzzy logic fails to scale well in knowledge bases
+- Logic doesn't work in presence of contradictory rules
 
 ## Probabilistic Methods
+- Operate with incomplete or uncertain information
+- Bayesian networks are used for a large number of problems
+- Formal Bayesian inference is computationally expensive
+- Utility is a key concept in science of economics
+- How valuable something is to an intelligent agent
+- Methods for agent to make choices and plan
 
 ## Statistical Learning
+- Classifiers and controllers 
+- Classification forms a central part of many AI systems
+- Many statistical and machine learning approaches
+- Performance depends greatly on the characteristics of the data
+- i.e. size, distribution, dimensionality and level of noise
+- kNN, naive Bayes, decision tree, SVM
 
 ## Artificial Neural Networks
+- Inspired by the architecture of neurons in the human brain
+- Network of connected nodes called artificial neurons
+- Input, hidden & output layers
+- Use some form of gradient descent on neural topology
+- i.e. DNN, CNN, RNN, GAN
 
 # 1.6 Limitations of AI
 
 ## Turing Test
+- Interrogator determines computer or human
+- Solely based on the responses
 
 ## Artificial Brain
+- The brain can be simulated by machines 
+- Like brain, simulated brains must also be intelligent
+- Thus machines can be intelligent
 
 ## AI Effect
+- Machines are already intelligent
+- "real" intelligence is whatever people can do that machines still cannot
+- So AI is whatever hasn't been done yet
+
+
