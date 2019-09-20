@@ -1,4 +1,5 @@
 # Ankit Rathi's AI Course
+If I were to teach an AI course...
 
 ## Part I: AI Introduction
 
