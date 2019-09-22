@@ -1,5 +1,5 @@
 # Ankit Rathi's Artificial Intelligence (AI) Course
-If I were to teach an AI course in University...
+If I were to teach an AI course in a university...
 
 ## Part I: AI Introduction
 This part gives you an overview of AI field.
@@ -7,6 +7,8 @@ This part gives you an overview of AI field.
 ### Lecture 1: AI Introduction ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/AI_Introduction.md))
 
 ### Lecture 2: AI E2E Lifecycle ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/AI_E2E_Lifecycle.md))
+
+### Lab A: Quick & Dirty ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Quick_N_Dirty.md))
 
 ## Part II: AI Pre-requisites 
 This part covers all the topics you need to cover before jumping on learning AI.
@@ -17,6 +19,8 @@ This part covers all the topics you need to cover before jumping on learning AI.
 
 ### Lecture 5: Data Literacy for AI ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Data_Literacy_for_AI.md))
 
+### Lab B: Play with Data ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Play_with_Data.md))
+
 ## Part III: AI Algorithms 
 This part details out the general concepts & frequently used ML/DL alogorithms.
 
@@ -24,7 +28,11 @@ This part details out the general concepts & frequently used ML/DL alogorithms.
 
 ### Lecture 7: ML Algorithms ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/ML_Algorithms.md))
 
+### Lab C: ML Projects ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/ML_Practice.md))
+
 ### Lecture 8: DL Networks ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/DL_Networks.md))
+
+### Lab D: DL Projects ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/DL_Practice.md))
 
 ## Part IV: Enterprise AI 
 This part captures what you need to know when you are building AI as an enterprise capability.
@@ -35,9 +43,5 @@ This part captures what you need to know when you are building AI as an enterpri
 
 ### Lecture 11: Explainable AI ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Explainable_AI.md))
 
-## Part V: Hands-on AI 
-This part collates the ML/DL projects to apply what you have learnt in the course.
+### Lab E: AI E2E Project ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/AI_E2E_Project.md))
 
-### Lecture 12: ML Projects ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/ML_Projects.md))
-
-### Lecture 13: DL Projects ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/DL_Projects.md))
