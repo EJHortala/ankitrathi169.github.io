@@ -1,17 +1,43 @@
-# 1. Opportunity Identification
+# AI E2E Process
 
-# 2. Use-case Prioritization
+## 1. Opportunity Identification
 
-# 3. Business Understanding
+## 2. Use-case Prioritization
 
-# 4. Data Understanding
+## 3. Business Understanding
 
-# 5. Data Preparation
+## 4. Data Understanding
 
-# 6. Modeling
+## 5. Data Preparation
 
-# 7. Evaluation
+## 6. Modeling
 
-# 8. Deployment
+## 7. Evaluation
 
-# 9. Monitoring
+## 8. Deployment
+
+## 9. Monitoring
+
+# Roles in AI
+
+## 1. Business Stakeholder
+
+## 2. AI Project Manager
+
+## 3. Domain Expert
+
+## 4. AI Architect
+
+## 5. Data Scientist
+
+## 6. UX Designer
+
+## 7. Data Engineer
+
+## 8. ML/DL Engineer
+
+## 9. Cloud Engineer
+
+## 10. QA Tester
+
+## 11. DevOps Engineer
