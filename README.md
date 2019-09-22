@@ -1,5 +1,7 @@
 # Ankit Rathi's Artificial Intelligence (AI) Course
-If I were to teach an AI course in a university, this is still work in progress, kindly provide your feedback on [ankitrathi.com](http://ankitrathi.com/)
+If I were to teach an AI course in a university...
+
+This is still work in progress, kindly provide your feedback on [ankitrathi.com](http://ankitrathi.com/)
 
 ## Part I: AI Introduction
 This part gives you an overview of AI field.
