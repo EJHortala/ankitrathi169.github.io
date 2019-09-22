@@ -1,12 +1,12 @@
-# Ankit Rathi's AI Course
-If I were to teach an AI course...
+# Ankit Rathi's Artificial Intelligence (AI) Course
+If I were to teach an AI course in University...
 
 ## Part I: AI Introduction
 This part gives you an overview of AI field.
 
 ### Lecture 1: AI Introduction ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/AI_Introduction.md))
 
-### Lecture 2: AI E2E Process ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/AI_E2E_Process.md))
+### Lecture 2: AI E2E Lifecycle ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/AI_E2E_Lifecycle.md))
 
 ## Part II: AI Pre-requisites 
 This part covers all the topics you need to cover before jumping on learning AI.
@@ -35,7 +35,7 @@ This part captures what you need to know when you are building AI as an enterpri
 
 ### Lecture 11: Explainable AI ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Explainable_AI.md))
 
-## Part IV: Hands-on AI 
+## Part V: Hands-on AI 
 This part collates the ML/DL projects to apply what you have learnt in the course.
 
 ### Lecture 12: ML Projects ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/ML_Projects.md))
