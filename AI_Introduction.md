@@ -118,4 +118,38 @@ Can be classified into three different types of systems:
 - "real" intelligence is whatever people can do that machines still cannot
 - So AI is whatever hasn't been done yet
 
+# 1.7 Disadvantages of AI
 
+## Bias in AI
+- AI programs may be programmed to be biased against certain groups
+- Researches show that support for AI is higher among men than women
+- Data collected may have inherent bias
+- Explainable AI is the need of the hour
+- COMPAS assigns an exceptionally elevated risk of recidivism to black defendants
+
+## Rise of Unemployment
+- Relationship between automation and employment is complicated
+- Many middle-class jobs may be eliminated by AI
+- While automation eliminates old jobs, it also creates new jobs
+- Through micro-economic and macro-economic effects
+- Subjective estimates of the risk vary widely
+
+## Devaluation of Humanity
+- AI cannot, by definition, successfully simulate genuine human empathy
+- the use of AI technology in some fields is deeply misguided
+- such as customer service or psychotherapy
+- AI researchers (and some philosophers) are willing to view the human mind as nothing more than a computer program
+- these points suggest that AI research devalues human life
+
+## Autonomous Weapons
+- many countries are researching battlefield robots
+- United States, China, Russia, and the United Kingdom
+- concerns about risk from superintelligent AI
+- want to limit the use of artificial soldiers and drones
+
+## Threat to Our Existence
+-  Many futurists have expressed concerns about it
+- Stephen Hawking, Bill Gates and Elon Musk etc
+- AI can evolve to the point that humans could not control it
+- But the hypothetical AI would have to overpower or out-think all of humanity
+- Some experts argue that it is a possibility far enough in the future to not be worth researching
