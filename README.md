@@ -32,18 +32,24 @@ This part details out the general concepts & frequently used ML/DL alogorithms.
 
 ### Lab C: ML Projects ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/ML_Practice.md))
 
-### Lecture 8: DL Networks ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/DL_Networks.md))
+### Lecture 8: NLP Algorithms ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/NLP_Algorithms.md))
 
-### Lab D: DL Projects ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/DL_Practice.md))
+### Lab D: NLP Projects ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/NLP_Practice.md))
+
+### Lecture 9: DL Networks ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/DL_Networks.md))
+
+### Lab E: DL Projects ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/DL_Practice.md))
 
 ## Part IV: Enterprise AI 
 This part captures what you need to know when you are building AI as an enterprise capability.
 
-### Lecture 9: AI Strategy ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/AI_Strategy.md))
+### Lecture 10: Hackathons Vs Real-world Projects ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Hackathons_Vs_RWProjects.md))
 
-### Lecture 10: Operational AI ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Operational_AI.md))
+### Lecture 11: AI Strategy ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/AI_Strategy.md))
 
-### Lecture 11: Explainable AI ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Explainable_AI.md))
+### Lecture 12: Operational AI ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Operational_AI.md))
 
-### Lab E: AI E2E Project ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/AI_E2E_Project.md))
+### Lecture 13: Explainable AI ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Explainable_AI.md))
+
+### Lab F: AI E2E Project ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/AI_E2E_Project.md))
 
