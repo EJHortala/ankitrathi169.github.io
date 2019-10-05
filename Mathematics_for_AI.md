@@ -22,3 +22,13 @@
 
 ## Important Concepts
 
+### Probability
+
+### Descriptive Statistics
+
+### Inferential Statistics
+
+### Bayesian Statistics
+
+### Statistical Learning
+
