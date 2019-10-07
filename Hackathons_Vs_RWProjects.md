@@ -1,15 +1,33 @@
 # Context
 
-# Business Understanding
+# Hackathons
 
-# Data Understanding
+# Real-World Projects
 
-# Data Preparation
+# Head to Head Comparison
 
-# Modeling
+## Business Understanding
 
-# Evaluation
+## Data Understanding
 
-# Deployment
+## Data Preparation
+
+## Modeling
+
+## Evaluation
+
+## Deployment
+
+# General Differences
+
+## Expectation Management
+
+## Business Value
+
+## Time to Market
+
+## T-shaped Collaboration
+
+## Model Complexity
 
 # Conclusion
