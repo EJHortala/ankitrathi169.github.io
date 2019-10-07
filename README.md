@@ -1,4 +1,4 @@
-# Ankit Rathi's Artificial Intelligence (AI) Course
+# Ankit Rathi's AI (ML/DL) Course
 If I were to teach an AI course in a university...
 
 This is still work in progress, kindly provide your feedback on [ankitrathi.com](http://ankitrathi.com/)
