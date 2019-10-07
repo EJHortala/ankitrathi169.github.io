@@ -49,7 +49,7 @@ This part captures what you need to know when you are building AI as an enterpri
 
 ### Lecture 12: Operational AI ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Operational_AI.md))
 
-### Lecture 13: Explainable AI ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Explainable_AI.md))
+### Lecture 13: Ethical & Explainable AI ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Explainable_AI.md))
 
 ### Lab F: AI E2E Project ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/AI_E2E_Project.md))
 
