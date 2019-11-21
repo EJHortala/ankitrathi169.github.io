@@ -1,4 +1,4 @@
-# Ankit Rathi's AI (ML/DL) Course
+# Ankit Rathi's E2E AI Course
 If I were to teach an AI course in a university...
 
 This is still work in progress, kindly provide your feedback on [ankitrathi.com](http://ankitrathi.com/)
@@ -45,9 +45,9 @@ This part captures what you need to know when you are building AI as an enterpri
 
 ### Lecture 10: Hackathons Vs Real-world Projects ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Hackathons_Vs_RWProjects.md))
 
-### Lecture 11: AI Strategy ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/AI_Strategy.md))
+### Lecture 11: Operational AI ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Operational_AI.md))
 
-### Lecture 12: Operational AI ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Operational_AI.md))
+### Lecture 12: AI Strategy ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/AI_Strategy.md))
 
 ### Lecture 13: Ethical & Explainable AI ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Explainable_AI.md))
 
