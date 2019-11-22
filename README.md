@@ -1,5 +1,5 @@
-# Ankit Rathi's E2E AI Course
-If I were to teach an AI course in a university...
+# Ankit Rathi's E2E Data & AI Course
+If I were to teach an Data & AI course in a university...
 
 This is still work in progress, kindly provide your feedback on [ankitrathi.com](http://ankitrathi.com/)
 
