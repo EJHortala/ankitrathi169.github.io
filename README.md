@@ -55,3 +55,12 @@ This part captures what you need to know when you are building AI as an enterpri
 
 ### Lab F: AI E2E Project ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/AI_E2E_Project.md))
 
+## Part V: Peripherals of AI 
+This part captures what you need to know when you are building AI as an enterprise capability.
+
+### Lecture 14: Getting into AI ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Getting_into_AI.md))
+
+### Lecture 15: Leading AI Initiatives ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Leading_AI_Initiatives.md))
+
+### Lecture 16: AI Engineering ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/AI_Engineering.md))
+
