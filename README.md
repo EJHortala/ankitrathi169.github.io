@@ -1,5 +1,4 @@
-# Ankit Rathi's E2E Data & AI Course
-If I were to teach a Data & AI course in a university...
+# Artificial Intelligence: From Novice to Professional
 
 This is still work in progress, kindly provide your feedback on [ankitrathi.com](http://ankitrathi.com/)
 
@@ -25,22 +24,24 @@ This part covers all the topics you need to cover before jumping on learning AI.
 
 ### Lab B: Play with Data ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Play_with_Data.md))
 
-## Part III: AI Algorithms 
+## Part III: AI Concepts & Algorithms 
 This part details out the general concepts & frequently used ML/DL alogorithms.
 
-### Lecture 6: General Concepts ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/General_Concepts.md))
-
-### Lecture 7: ML Algorithms ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/ML_Algorithms.md))
+### Lecture 6: ML Concepts & Algorithms ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/ML_Algorithms.md))
 
 ### Lab C: ML Projects ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/ML_Practice.md))
 
-### Lecture 8: NLP Algorithms ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/NLP_Algorithms.md))
+### Lecture 7: NLP Concepts & Algorithms ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/NLP_Algorithms.md))
 
 ### Lab D: NLP Projects ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/NLP_Practice.md))
 
-### Lecture 9: DL Networks ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/DL_Networks.md))
+### Lecture 8: DL Concepts & Algorithms ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/DL_Networks.md))
 
 ### Lab E: DL Projects ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/DL_Practice.md))
+
+### Lecture 9: RL Concepts & Algorithms ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/RL_Algorithms.md))
+
+### Lab F: RL Projects ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/RL_Practice.md))
 
 ## Part IV: Enterprise AI 
 This part captures what you need to know when you are building AI as an enterprise capability.
