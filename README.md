@@ -27,21 +27,21 @@ This part covers all the topics you need to cover before jumping on learning AI.
 ## Part III: AI Concepts & Algorithms 
 This part details out the general concepts & frequently used ML/DL alogorithms.
 
-### Lecture 6: ML Concepts & Algorithms ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/ML_Algorithms.md))
+### Lecture 6: ML Concepts & Algorithms ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/ML_Concepts_Algorithms.md))
 
-### Lab C: ML Projects ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/ML_Practice.md))
+### Lab C: ML Practice ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/ML_Practice.md))
 
-### Lecture 7: NLP Concepts & Algorithms ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/NLP_Algorithms.md))
+### Lecture 7: NLP Concepts & Algorithms ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/NLP_Concepts_Algorithms.md))
 
-### Lab D: NLP Projects ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/NLP_Practice.md))
+### Lab D: NLP Practice ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/NLP_Practice.md))
 
-### Lecture 8: DL Concepts & Algorithms ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/DL_Networks.md))
+### Lecture 8: DL Concepts & Networks ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/DL_Concepts_Networks.md))
 
-### Lab E: DL Projects ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/DL_Practice.md))
+### Lab E: DL Practice ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/DL_Practice.md))
 
-### Lecture 9: RL Concepts & Algorithms ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/RL_Algorithms.md))
+### Lecture 9: RL Concepts & Algorithms ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/RL_Concepts_Algorithms.md))
 
-### Lab F: RL Projects ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/RL_Practice.md))
+### Lab F: RL Practice ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/RL_Practice.md))
 
 ## Part IV: Enterprise AI 
 This part captures what you need to know when you are building AI as an enterprise capability.
@@ -52,7 +52,7 @@ This part captures what you need to know when you are building AI as an enterpri
 
 ### Lecture 12: AI Strategy ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/AI_Strategy.md))
 
-### Lecture 13: Ethical & Explainable AI ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Explainable_AI.md))
+### Lecture 13: Ethical & Explainable AI ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Ethical_Explainable_AI.md))
 
 ### Lab F: AI E2E Project ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/AI_E2E_Project.md))
 
