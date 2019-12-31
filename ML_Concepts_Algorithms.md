@@ -1,20 +1,36 @@
-# 1. Machine Learning 
+# 1 ML Concepts 
 
-# 2. k-Nearest Neighbors
+## 1.1 Parametric & Non-parametric Models
 
-# 3. Naive Bayes
+## 1.2 Gradient Descent
 
-# 4. Linear Regression
+## 1.3 Cost Function
 
-# 5. Logistic Regression
+## 1.4 Performance Measures
 
-# 6. Discriminant Analysis
+## 1.5 Bias-Variance Trade-Off
 
-# 7. Tree-Based Models
+## 1.6 Regularization
 
-# 8. Support Vector Machines
+## 1.7 Decision Boundaries
 
-# 9. Bagging, Boosting & Stacking
+## 1.8 Computational Complexity
 
+# 2 ML Algorithms 
 
+## 2.1 k-Nearest Neighbors
+
+## 2.2 Linear Regression
+
+## 2.3 Logistic Regression
+
+## 2.4 Support Vector Machines
+
+## 2.5 Naive Bayes
+
+## 2.6 Discriminant Analysis
+
+## 2.7 Tree-Based Models
+
+## 2.8 Ensemble Models
 
