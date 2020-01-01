@@ -20,12 +20,12 @@ This part covers all the topics you need to cover before jumping on learning AI.
 
 ### Lecture 4: Programming for AI ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Programming_for_AI.md))
 
-### Lecture 5: Data Literacy for AI ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Data_Literacy_for_AI.md))
+### Lecture 5: Domain Knowledge & Data Literacy for AI ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Domain_Knowledge_Data_Literacy_for_AI.md))
 
 ### Lab B: Play with Data ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Play_with_Data.md))
 
 ## Part III: AI Concepts & Algorithms 
-This part details out the general concepts & frequently used ML/DL alogorithms.
+This part details out the general concepts & frequently used ML/DL/RL alogorithms.
 
 ### Lecture 6: ML Concepts & Algorithms ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/ML_Concepts_Algorithms.md))
 
@@ -62,6 +62,3 @@ This part covers other AI related topics.
 ### Lecture 14: Getting into AI ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Getting_into_AI.md))
 
 ### Lecture 15: Leading AI Initiatives ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Leading_AI_Initiatives.md))
-
-### Lecture 16: AI Engineering ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/AI_Engineering.md))
-
