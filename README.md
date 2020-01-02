@@ -62,3 +62,5 @@ This part covers other AI related topics.
 ### Lecture 14: Getting into AI ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Getting_into_AI.md))
 
 ### Lecture 15: Leading AI Initiatives ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Leading_AI_Initiatives.md))
+
+### Lecture 16: Making AI Career Future-Proof ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Making_AI_Career_FutureProof.md))
