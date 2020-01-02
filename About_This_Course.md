@@ -1,9 +1,10 @@
 # 1. Why this course?
-## - Too many courses, books & blogs
-## - But no material covers end-to-end aspects
+## - Too many courses, books & blogs on AI/ML algorithms
+## - But no material covers end-to-end aspects of AI field
 ## - Mostly revolves around algorithms & its optimization
 ## - AI projects start with identifying AI opportunities
-## - Convcludes with monitoring & maintaining models in production
+## - AI projects conclude with monitoring & maintaining models in production
+## - This course aims to provide holistic view of AI field with decent depth
 
 # 2. What is covered in this course?
 ## - AI Introduction 
