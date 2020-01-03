@@ -1,5 +1,11 @@
 # Domain Knowledge
 
+## 1. Knowledge of Business
+
+## 2. Process Understanding
+
+## 3. Data being Processed
+
 # Data Literacy
 
 ## 1. Data Basics
