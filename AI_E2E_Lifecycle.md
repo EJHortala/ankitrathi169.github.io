@@ -92,10 +92,10 @@
 ### - Working on Cloud Services used in AI projects
 
 ## 10. QA Tester
-### Testing quality of Data
-### Testing quality of Features
-### Testing quality of AI Algorithms
-### Testing quality of AI Solution
+### - Testing quality of Data
+### - Testing quality of Features
+### - Testing quality of AI Algorithms
+### - Testing quality of AI Solution
 
 ## 11. DevOps Engineer
 ### - Working on CI/CD in AI projects
