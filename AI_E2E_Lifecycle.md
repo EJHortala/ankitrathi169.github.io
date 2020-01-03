@@ -22,26 +22,34 @@
 ### - Data Availability & Access
 ### - Identifying Key Data Attributes
 ### - Exploratory Data Analysis
+### - Test Dataset Split
 
 ## 5. Data Preparation
+### - Data Cleaning
 ### - Dealing with Outliers & Skewness
+### - Text & Categorical Attributes
 ### - Transforming Attributes into Features
 ### - Building additional Features
 
 ## 6. Modeling
-### - Build & Compare Models
+### - Training & Evaluating Models
 
 ## 7. Evaluation
-### - Segregate Evaluation Data
+### - Segregate Evaluation Dataset
 ### - Define Evaluation Criteria
 ### - Evaluate Model Performance
 
-## 8. Deployment
+## 8. Fine-Tuning Models
+### - Grid & Randomized Search
+### - Ensemble Models
+### - Evaluate on Test Dataset
+
+## 9. Deployment
 ### - Deploy Models in Production
 ### - Make Predictions available to Business
 ### - Take Feedback on KPIs
 
-## 9. Monitoring
+## 10. Monitoring & Maintenance
 ### - Keep Monitoring KPIs
 ### - Perform Data & Model Drift Analysis
 
@@ -56,28 +64,38 @@
 ### - Manages AI Projects (Time, Quality, Resources & Scope)
 
 ## 3. Domain Expert
-### - Provides Functional Support
+### - Defining & Refining Requirements
+### - Providing Functional Support
 
 ## 4. AI Architect
-### - Designe End-to-End Solution
+### - Designing End-to-End Solution
+### - Validating AI Solution Arcitecture
+### - Dealing with NFRs
 
 ## 5. Data Scientist
 ### - Deals with Data & Models
 
 ## 6. UX Designer
-### - Builds front-end for AI applications
+### - Building front-end/dashboards for end user
+### - Building Internal dashboards for Data Scientists
 
 ## 7. Data Engineer
-### - Deals with Data Pipelines
+### - Building Data Pipelines
+### - Ingestion, Storage & Processing Data
 
 ## 8. ML/DL Engineer
-### - Deals with Models
+### - Training Models
+### - Evaluating Performance
+### - Hyperparameter Tuning
 
 ## 9. Cloud Engineer
 ### - Deals with Infra on Cloud
 
 ## 10. QA Tester
-### - Test AI Application from QA Perspective
+### Testing quality of data
+### Testing quality of features
+### Testing quality of AI algorithms
+### Testing quality of AI solution
 
 ## 11. DevOps Engineer
 ### - Plays a bridge between Development & Operations team
