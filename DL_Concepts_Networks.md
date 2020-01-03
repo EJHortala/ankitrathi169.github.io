@@ -1,16 +1,18 @@
 # DL Concepts
 
-## 1. Artificial Neural Nets
+## 1. Deep Learning
 
-## 2. Perceptron & MLP
+## 2. Artificial Neural Nets
 
-## 3. Deep Neural Nets
+## 3. Perceptron & MLP
 
-## 4. Vanishing/Exploding Gradients
+## 4. Deep Neural Nets
 
-## 5. Faster Optimizers
+## 5. Vanishing/Exploding Gradients
 
-## 6. Regularization
+## 6. Faster Optimizers
+
+## 7. Regularization
 
 # DL Networks
 
@@ -21,3 +23,4 @@
 ## 3. Autoencoders
 
 ## 4. Generative Adversarial Nets
+
