@@ -1,6 +1,6 @@
 # DL Concepts
 
-## 1. Deep Learning
+## 1. Artificial Neural Nets
 
 ## 2. Perceptron & MLP
 
@@ -14,10 +14,10 @@
 
 # DL Networks
 
-# 1. Convolutional Neural Nets
+## 1. Convolutional Neural Nets
 
-# 2. Recurrent Neural Nets
+## 2. Recurrent Neural Nets & LSTMs
 
-# 3. Autoencoders
+## 3. Autoencoders
 
-# 4. Generative Adversarial Nets
+## 4. Generative Adversarial Nets
