@@ -6,29 +6,29 @@
 
 ## Important Concepts
 
-### Scalars, Vectors, Matrices and Tensors
+### - Scalars, Vectors, Matrices and Tensors
 
-### Multiplying Matrices and Vectors
+### - Multiplying Matrices and Vectors
 
-### Identity and Inverse Matrices
+### - Identity and Inverse Matrices
 
-### Linear Dependence and Span
+### - Linear Dependence and Span
 
-### Norms
+### - Norms
 
-### Special Kinds of Matrices and Vectors
+### - Special Kinds of Matrices and Vectors
 
-### Eigendecomposition
+### - Eigendecomposition
  
-### Singular Value Decomposition (SVD)
+### - Singular Value Decomposition (SVD)
 
-### The Moore Penrose Pseudoinverse
+### - The Moore Penrose Pseudoinverse
 
-### The Trace Operator
+### - The Trace Operator
 
-### The Determinant
+### - The Determinant
 
-### Principal Component Analysis
+### - Principal Component Analysis
 
 # 2. Multivariate Calculus
 
@@ -38,33 +38,33 @@
 
 ## Important Concepts
 
-### Functions
+### - Functions
 
-### Derivatives
+### - Derivatives
 
-### Product Rule
+### - Product Rule
 
-### Chain Rule
+### - Chain Rule
 
-### Integrals
+### - Integrals
 
-### Partial Derivatives
+### - Partial Derivatives
 
-### The Gradient
+### - The Gradient
 
-### The Jacobian
+### - The Jacobian
 
-### The Hessian
+### - The Hessian
 
-### Multivariate Chain Rule
+### - Multivariate Chain Rule
 
-### Approximate Functions
+### - Approximate Functions
 
-### Power Series
+### - Power Series
 
-### Linearisation
+### - Linearisation
 
-### Multivariate Taylor
+### - Multivariate Taylor
 
 # 3. Probability & Statistics
 
@@ -78,32 +78,46 @@
 
 ### Descriptive Statistics
 
-#### Introduction to Statistics
-#### Descriptive Statistics
-#### Uni-variate Analysis
-#### Bi-variate Analysis
-#### Multivariate Analysis
-#### Function Models
+#### - Introduction to Statistics
+
+#### - Descriptive Statistics
+
+#### - Uni-variate Analysis
+
+#### - Bi-variate Analysis
+
+#### - Multivariate Analysis
+
+#### - Function Models
 
 ### Inferential Statistics
 
-#### Sampling Distributions & Estimation
-#### Hypothesis Testing (One and Two Group Means)
-#### Hypothesis Testing (Categorical Data)
-#### Hypothesis Testing (More Than Two Group Means)
-#### Quantitative Data (Correlation & Regression)
+#### - Sampling Distributions & Estimation
+
+#### - Hypothesis Testing (One and Two Group Means)
+
+#### - Hypothesis Testing (Categorical Data)
+
+#### - Hypothesis Testing (More Than Two Group Means)
+
+#### - Quantitative Data (Correlation & Regression)
 
 ### Bayesian Statistics
 
-#### Frequentist Vs Bayesian Statistics
-#### Bayesian Inference
-#### Test for Significance
+#### - Frequentist Vs Bayesian Statistics
+
+#### - Bayesian Inference
+
+#### - Test for Significance
 
 
 ### Statistical Learning
 
-#### Prediction & Inference
-#### Parametric & Non-parametric methods
-#### Prediction Accuracy and Model Interpretability
-#### Bias-Variance Trade-Off
+#### - Prediction & Inference
+
+#### - Parametric & Non-parametric methods
+
+#### - Prediction Accuracy and Model Interpretability
+
+#### - Bias-Variance Trade-Off
 
