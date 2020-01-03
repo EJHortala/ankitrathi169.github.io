@@ -1,44 +1,44 @@
-# 1 ML Concepts 
+# ML Concepts 
 
-## 1.1 Parametric & Non-parametric Models
+## 1 Parametric & Non-parametric Models
 
-## 1.2 Gradient Descent
+## 2 Gradient Descent
 
-## 1.3 Cost Function
+## 3 Cost Function
 
-## 1.4 Performance Measures
+## 4 Performance Measures
 
-## 1.5 Bias-Variance Trade-Off
+## 5 Bias-Variance Trade-Off
 
-## 1.6 Regularization
+## 6 Regularization
 
-## 1.7 Decision Boundaries
+## 7 Decision Boundaries
 
-## 1.8 Computational Complexity
+## 8 Computational Complexity
 
-# 2 Supervised ML Algorithms 
+# Supervised ML Algorithms 
 
-## 2.1 k-Nearest Neighbors
+## 1 k-Nearest Neighbors
 
-## 2.2 Linear Regression
+## 2 Linear Regression
 
-## 2.3 Logistic Regression
+## 3 Logistic Regression
 
-## 2.4 Support Vector Machines
+## 4 Support Vector Machines
 
-## 2.5 Naive Bayes
+## 5 Naive Bayes
 
-## 2.6 Discriminant Analysis
+## 6 Discriminant Analysis
 
-## 2.7 Tree-Based Models
+## 7 Tree-Based Models
 
-## 2.8 Ensemble Models
+## 8 Ensemble Models
 
-# 3 Unsupervised ML Algorithms 
+# Unsupervised ML Algorithms 
 
-## 3.1 Clustering
+## 1 Clustering
 
-## 3.2 Anomaly Detection
+## 2 Anomaly Detection
 
-## 3.3 PCA
+## 3 PCA
 
