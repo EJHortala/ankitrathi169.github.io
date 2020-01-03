@@ -1,13 +1,17 @@
-# 1. Data Basics
+# Domain Knowledge
 
-# 2. Data Analysis
+# Data Literacy
 
-# 3. Data Models
+## 1. Data Basics
 
-# 4. Data Architecture
+## 2. Data Analysis
 
-# 5. Data Technology
+## 3. Data Models
 
-# 6. Data Governance
+## 4. Data Architecture
 
-# 7. Data Strategy
+## 5. Data Technology
+
+## 6. Data Governance
+
+## 7. Data Strategy
