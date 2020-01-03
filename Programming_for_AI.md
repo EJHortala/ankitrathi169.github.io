@@ -1,21 +1,23 @@
-# 1. Python Basics
+# Python Basics
 
-## Introduction
+## 1. Introduction
 
-## Installation
+## 2. Installation
 
-## Syntax & Variable Types
+## 3. Syntax & Variable Types
 
-## Basic Operators
+## 4. Basic Operators
 
-## Decision Making & Loops
+## 5. Decision Making & Loops
 
-## Functions, Exceptions & Modules
+## 6. Functions, Exceptions & Modules
 
-# 2. NumPy & SciPy
+# NumPy & SciPy
 
-# 3. MatPlotLib
+# MatPlotLib
 
-# 4. SkLearn
+# SkLearn
 
-# 5. Keras
+# TensorFlow
+
+# Keras
