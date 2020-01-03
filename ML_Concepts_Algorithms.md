@@ -1,20 +1,22 @@
 # ML Concepts 
 
-## 1 Parametric & Non-parametric Models
+## 1 Machine Learning
 
-## 2 Gradient Descent
+## 2 Parametric & Non-parametric Models
 
-## 3 Cost Function
+## 3 Gradient Descent
 
-## 4 Performance Measures
+## 4 Cost Function
 
-## 5 Bias-Variance Trade-Off
+## 5 Performance Measures
 
-## 6 Regularization
+## 6 Bias-Variance Trade-Off
 
-## 7 Decision Boundaries
+## 7 Regularization
 
-## 8 Computational Complexity
+## 8 Decision Boundaries
+
+## 9 Computational Complexity
 
 # Supervised ML Algorithms 
 
