@@ -73,7 +73,7 @@
 ### - Dealing with NFRs
 
 ## 5. Data Scientist
-### - Deals with Data & Models
+### - Dealing with Data & AI Models
 
 ## 6. UX Designer
 ### - Building front-end/dashboards for end user
@@ -89,13 +89,13 @@
 ### - Hyperparameter Tuning
 
 ## 9. Cloud Engineer
-### - Deals with Infra on Cloud
+### - Working on Cloud Services used in AI projects
 
 ## 10. QA Tester
-### Testing quality of data
-### Testing quality of features
-### Testing quality of AI algorithms
-### Testing quality of AI solution
+### Testing quality of Data
+### Testing quality of Features
+### Testing quality of AI Algorithms
+### Testing quality of AI Solution
 
 ## 11. DevOps Engineer
-### - Plays a bridge between Development & Operations team
+### - Working on CI/CD in AI projects
