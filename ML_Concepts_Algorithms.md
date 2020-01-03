@@ -16,7 +16,7 @@
 
 ## 1.8 Computational Complexity
 
-# 2 ML Algorithms 
+# 2 Supervised ML Algorithms 
 
 ## 2.1 k-Nearest Neighbors
 
@@ -33,4 +33,12 @@
 ## 2.7 Tree-Based Models
 
 ## 2.8 Ensemble Models
+
+# 3 Unsupervised ML Algorithms 
+
+## 3.1 Clustering
+
+## 3.2 Anomaly Detection
+
+## 3.3 PCA
 
