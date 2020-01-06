@@ -8,16 +8,10 @@
 
 # Data Literacy
 
-## 1. Data Basics
+## 1. Data Analysis
 
-## 2. Data Analysis
+## 2. Data Models & Architecture
 
-## 3. Data Models
+## 3. Data Technology & Governance
 
-## 4. Data Architecture
-
-## 5. Data Technology
-
-## 6. Data Governance
-
-## 7. Data Strategy
+## 4. Data Strategy
