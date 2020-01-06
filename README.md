@@ -31,7 +31,7 @@ This part details out the general concepts & frequently used ML/DL/RL alogorithm
 
 ### Lab C: ML Practice ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/ML_Practice.md))
 
-### Lecture 7: NLP Concepts & Algorithms ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/NLP_Concepts_Algorithms.md))
+### Lecture 7: NLP Concepts & Techniques ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/NLP_Concepts_Techniques.md))
 
 ### Lab D: NLP Practice ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/NLP_Practice.md))
 
