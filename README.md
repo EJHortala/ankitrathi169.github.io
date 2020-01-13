@@ -4,7 +4,7 @@ This is still work in progress, kindly provide your feedback on [ankitrathi.com]
 
 ### Lecture 0: About This Course ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/About_This_Course.md))
 
-## Part I: AI Introduction
+## Part I: AI Landscape
 This part gives you an overview of AI field.
 
 ### Lecture 1: AI Introduction ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/AI_Introduction.md))
