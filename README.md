@@ -1,66 +1,39 @@
-# Artificial Intelligence: From Novice to Professional
+# Artificial Intelligence
+## Self-Starter Handbook
+### Build Your Own Roadmap
+#### 2nd edition
 
 This is still work in progress, kindly provide your feedback on [ankitrathi.com](http://ankitrathi.com/)
 
-### Lecture 0: About This Course ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/About_This_Course.md))
+Navigate --> Build --> Launch --> Excel
 
-## Part I: AI Landscape
-This part gives you an overview of AI field.
+## Understanding the Big Picture
 
-### Lecture 1: AI Introduction ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/AI_Introduction.md))
+# Navigate
 
-### Lecture 2: AI E2E Lifecycle ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/AI_E2E_Lifecycle.md))
+## Navigating the Landscape
 
-### Lab A: Quick & Dirty ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Quick_N_Dirty.md))
+# Build
 
-## Part II: AI Pre-requisites 
-This part covers all the topics you need to cover before jumping on learning AI.
+## Working on Building Blocks
 
-### Lecture 3: Mathematics for AI ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Mathematics_for_AI.md))
+## Utilizing the Resources
 
-### Lecture 4: Programming for AI ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Programming_for_AI.md))
+# Launch
 
-### Lecture 5: Domain Knowledge & Data Literacy for AI ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Domain_Knowledge_Data_Literacy_for_AI.md))
+## Building your Portfolio
 
-### Lab B: Play with Data ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Play_with_Data.md))
+## Networking & Landing the Job
 
-## Part III: AI Concepts & Algorithms 
-This part details out the general concepts & frequently used ML/DL/RL alogorithms.
+# Excel
 
-### Lecture 13: ML Concepts & Algorithms ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/ML_Concepts_Algorithms.md))
+## Starting AI in Your Current Job
 
-### Lab C: ML Practice ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/ML_Practice.md))
+## Switching to an AI Role
 
-### Lecture 14: NLP Concepts & Techniques ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/NLP_Concepts_Techniques.md))
+## Leading AI Initiatives
 
-### Lab D: NLP Practice ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/NLP_Practice.md))
+## Making Your Career Future-Proof
 
-### Lecture 15: DL Concepts & Networks ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/DL_Concepts_Networks.md))
 
-### Lab E: DL Practice ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/DL_Practice.md))
-
-### Lecture 16: RL Concepts & Algorithms ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/RL_Concepts_Algorithms.md))
-
-### Lab F: RL Practice ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/RL_Practice.md))
-
-## Part IV: Enterprise AI 
-This part captures what you need to know when you are building AI as an enterprise capability.
-
-### Lecture 3: Hackathons Vs Real-world Projects ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Hackathons_Vs_RWProjects.md))
-
-### Lecture 4: Operational AI ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Operational_AI.md))
-
-### Lecture 5: AI Strategy ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/AI_Strategy.md))
-
-### Lecture 6: Ethical & Explainable AI ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Ethical_Explainable_AI.md))
-
-### Lab G: AI E2E Project ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/AI_E2E_Project.md))
-
-## Part V: Peripherals of AI 
-This part covers other AI related topics.
-
-### Lecture 7: Getting into AI ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Getting_into_AI.md))
-
-### Lecture 8: Leading AI Initiatives ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Leading_AI_Initiatives.md))
-
-### Lecture 9: Making Your Career Future-Proof ([Link](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Making_AI_Career_FutureProof.md))
+## Putting it All Together
