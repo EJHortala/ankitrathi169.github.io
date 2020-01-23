@@ -25,31 +25,31 @@ This is still work in progress, kindly provide your feedback on [ankitrathi.com]
 
 Navigate --> Build --> Launch --> Excel
 
-## Understanding the Big Picture
+## Ch1: Understanding the Big Picture
 
 # Navigate
 
-## Navigating the Landscape
+## Ch2: Navigating the Landscape
 
 # Build
 
-## Working on Building Blocks
+## Ch3: Working on Building Blocks
 
-## Utilizing the Resources
+## Ch4: Utilizing the Resources
 
 # Launch
 
-## Building your Portfolio
+## Ch5: Building your Portfolio
 
-## Networking & Landing the Job
+## Ch6: Networking & Landing the Job
 
 # Excel
 
-## Switching to an AI Role
+## Ch7: Switching to an AI Role
 
-## Leading AI Initiatives
+## Ch8: Leading AI Initiatives
 
-## Making Your Career Future-Proof
+## Ch9: Making Your Career Future-Proof
 
 
-## Putting it All Together
+## Ch10: Putting it All Together
