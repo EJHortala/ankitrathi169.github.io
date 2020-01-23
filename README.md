@@ -12,8 +12,8 @@ This is still work in progress, kindly provide your feedback on [ankitrathi.com]
 - What are the roles in AI projects, who does what?
 - What concepts & tools you need to learn?
 - Which books, courses, etc you need to refer to?
-- How to build an AI portfolio?
-- How to write a resume for AI role?
+- How to practice & build an AI portfolio?
+- How to write resume for an AI role?
 - How to build a helpful network?
 - How to search for the job?
 - How to prepare for the interview?
