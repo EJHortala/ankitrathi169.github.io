@@ -42,20 +42,23 @@ Navigate --> Build --> Launch --> Excel
 ## Ch2: Navigating the Landscape
 
 #### What & Why of AI
+#### Brief History of AI
 #### Multi-disciplinary field
-#### Various Terminologies
-#### Interconnection
-#### Roles in AI
+#### Various Terminologies & Interconnection
+#### AI Process & Different Roles
 #### Academics Vs Industry
+#### Latest Updates in AI
 
 ## Ch3: End-to-end AI Project
 
+### End-to-end Process
 #### Identify & Assess the Use-cases
 #### Define the Problem
 #### Collect & Understand the Data
 #### Prepare the Data
 #### Build & Evaluate Models
 #### Deploy & Monitor
+### Different Roles
 
 # Build
 
