@@ -1,4 +1,4 @@
-# Artificial Intelligence
+# Artificial Intelligence & Machine Learning
 ## Self-Starter Handbook
 ### Build Your Own Roadmap
 #### 2nd edition
