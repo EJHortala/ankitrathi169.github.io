@@ -26,6 +26,12 @@ This is still work in progress, kindly provide your feedback on [ankitrathi.com]
 
 Navigate --> Build --> Launch --> Excel
 
+## Ch0: How to Make the Most of this Handbook
+
+#### Cover the book end to end
+#### Identify the Gaps
+#### Build your own Roadmap
+
 ## Ch1: Understanding the Big Picture
 
 #### Navigating the landscape
