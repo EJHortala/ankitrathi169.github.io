@@ -5,7 +5,7 @@
 
 This is still work in progress, kindly provide your feedback on [ankitrathi.com](http://ankitrathi.com/)
 
-![alt text](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/ResourcesAI Self-Starter Handbook.jpg)
+![alt text](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Resources/AI Self-Starter Handbook.jpg)
 
 #### Questions answered in this book:
 
