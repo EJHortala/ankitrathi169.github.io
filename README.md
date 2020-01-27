@@ -1,9 +1,11 @@
-# Artificial Intelligence & Machine Learning
+# Artificial Intelligence
 ## Self-Starter Handbook
 ### Build Your Own Roadmap
 #### 2nd edition
 
 This is still work in progress, kindly provide your feedback on [ankitrathi.com](http://ankitrathi.com/)
+
+![alt text](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/ResourcesAI Self-Starter Handbook.jpg)
 
 #### Questions answered in this book:
 
@@ -35,6 +37,7 @@ Navigate --> Build --> Launch --> Excel
 ## Ch1: Understanding the Big Picture
 
 #### Navigating the landscape
+#### End-to-end AI Project
 #### Working on building blocks
 #### Utilizing the resources
 #### Building your portfolio
@@ -47,13 +50,15 @@ Navigate --> Build --> Launch --> Excel
 
 ## Ch2: Navigating the Landscape
 
-#### What & Why of AI
-#### Brief History of AI
-#### Multi-disciplinary field
+### What is AI?
+#### Different Approaches
+#### Multi-disciplinary Field
 #### Various Terminologies & Interconnection
-#### AI Process & Different Roles
-#### Academics Vs Industry
-#### Latest Updates in AI
+### Why is AI Important?
+### Brief History of AI
+### AI Process & Different Roles
+### Academics Vs Industry
+### Current State of AI
 
 ## Ch3: End-to-end AI Project
 
