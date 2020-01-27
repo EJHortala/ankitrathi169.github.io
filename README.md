@@ -59,6 +59,14 @@ Navigate --> Build --> Launch --> Excel
 #### Build & Evaluate Models
 #### Deploy & Monitor
 ### Different Roles
+#### AI/ML Engineer
+#### Data Engineer
+#### Data Analyst
+#### Software Engineer
+#### Product Owner
+#### Business Owner
+#### BI Engineer
+#### DevOps Engineer
 
 # Build
 
@@ -94,7 +102,17 @@ Navigate --> Build --> Launch --> Excel
 
 ## Ch8: Switching to an AI Role
 
+#### Learn the Basics
+#### Apply on Public Datasets
+#### Partcipate in Hackathons
+#### Identify AI Use cases
+#### Look the Role Outside
+
 ## Ch9: Leading AI Initiatives
+
+#### Strategize
+#### Execute
+#### Reflect
 
 ## Ch10: Making Your Career Future-Proof
 
