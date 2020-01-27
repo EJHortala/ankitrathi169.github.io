@@ -72,8 +72,19 @@ Navigate --> Build --> Launch --> Excel
 
 ## Ch4: Working on Building Blocks
 
-#### Concepts to Learn
-#### Tools to Master
+### Concepts to Learn
+#### Machine Learning
+#### Natural Language Processing
+#### Deep Learning
+#### General Adversarial Networks
+#### Reinforcement Learning
+
+### Tools to Master
+#### SQL
+#### Python
+#### Tensorflow
+#### Keras
+#### R
 
 ## Ch5: Utilizing the Resources
 
@@ -110,9 +121,10 @@ Navigate --> Build --> Launch --> Excel
 
 ## Ch9: Leading AI Initiatives
 
-#### Strategize
-#### Execute
-#### Reflect
+#### Build the Strategy
+#### Identify the Use Cases
+#### Execute the Projects
+#### Reflect on the Outcomes
 
 ## Ch10: Making Your Career Future-Proof
 
