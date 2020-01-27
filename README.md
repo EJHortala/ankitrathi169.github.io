@@ -89,10 +89,11 @@ Navigate --> Build --> Launch --> Excel
 ## Ch5: Utilizing the Resources
 
 #### Books to Refer
+#### Influencers to Follow
 #### Courses to Attend
 #### Blogs to Follow
 #### Podcasts to Listen
-#### YouTube Channels
+#### YouTube Channels to Subscribe
 
 # Launch
 
