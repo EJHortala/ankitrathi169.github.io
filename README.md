@@ -83,12 +83,19 @@ Navigate --> Build --> Launch --> Excel
 
 ## Ch4: Working on Building Blocks
 
-### Concepts to Learn
+### Core Concepts
 #### Machine Learning
 #### Natural Language Processing
 #### Deep Learning
 #### General Adversarial Networks
 #### Reinforcement Learning
+
+### Peripheral Concepts
+#### Data Engineering & Architecture
+#### Cloud Computing
+#### DevOps
+#### Enterprise AI
+#### AI Ethics
 
 ### Tools to Master
 #### SQL
