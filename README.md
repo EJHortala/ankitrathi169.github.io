@@ -150,24 +150,26 @@ Navigate --> Build --> Launch --> Excel
 ## Ch5: Utilizing the Resources
 
 #### Books to Refer
-#### Influencers to Follow
 #### Courses to Attend
 #### Blogs to Follow
+#### Influencers to Connect
 #### Podcasts to Listen
-#### YouTube Channels to Subscribe
+#### Channels to Subscribe
 
 # Launch
 
 ## Ch6: Building your Portfolio
 
-#### Work on Public data-sets
+#### Work on Public Data-sets
 #### Participate in Hackathons
 #### Publish on Git-Hub
-#### Write a Blog
+#### Guide the Beginners
+#### Start a Blog/Padcast/Channel
 
 ## Ch7: Networking & Landing the Job
 
 #### Network on LinkedIn
+#### Attend Meetups
 #### Prepare the CV
 #### Crack the Interview
 
@@ -175,10 +177,10 @@ Navigate --> Build --> Launch --> Excel
 
 ## Ch8: Switching to an AI Role
 
-#### Learn the Basics
-#### Apply on Public Datasets
-#### Partcipate in Hackathons
+#### Build your Skills
 #### Identify AI Use cases
+#### Solve & Share
+#### Launch your Profile
 #### Look the Role Outside
 
 ## Ch9: Leading AI Initiatives
@@ -192,13 +194,12 @@ Navigate --> Build --> Launch --> Excel
 
 ## Ch10: Making Your Career Future-Proof
 
+#### Monitor Industry Trends
 #### Build ‘Evolve’ Mindset
 #### Hone Core Skills
 #### Develop Soft Skills
 #### Maintain Digital Portfolio
 #### Expand Network Globally
-#### Monitor Industry Trends
-
 
 ## Ch11: Putting it All Together
 
