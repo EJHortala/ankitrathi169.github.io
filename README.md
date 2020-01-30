@@ -57,6 +57,7 @@ Navigate --> Build --> Launch --> Excel
 - Imitating Human Behaviour
 - Strong/Weak AI
 - Beneficial for Human & Society
+
 #### Brief History of AI
 
 #### Different Approaches
@@ -66,7 +67,7 @@ Navigate --> Build --> Launch --> Excel
 - Social & General Intelligence
 - Learning from Data
 
-#### Various Terminologies & Interconnection
+#### Terminologies & Interconnection
 - Data Mining
 - Business Intelligence
 - Machine Learning
@@ -75,7 +76,7 @@ Navigate --> Build --> Launch --> Excel
 
 #### Multi-disciplinary Field
 - Mathematics
-- Computer Science
+- Computer Science/IT
 - Domain Knowledge
 
 ### Why is AI Important?
@@ -86,12 +87,19 @@ Navigate --> Build --> Launch --> Excel
 
 ### Applications of AI
 - Healthcare
-- Automotive
-- Finance & Economics
+- Banking & Insurance
+- Travel
+- Sales & Marketing
+- Automation
+- Manufacturing
 - Cybersecurity
-- Government & Military
 
 ### Academics Vs Industry
+- AI Research
+- Applied AI
+
+### Ethical AI
+
 ### Current State of AI
 
 ## Ch3: End-to-end AI Project
@@ -130,7 +138,7 @@ Navigate --> Build --> Launch --> Excel
 #### Cloud Computing
 #### DevOps
 #### Enterprise AI
-#### AI Ethics
+#### Explainable AI
 
 ### Tools to Master
 #### SQL
