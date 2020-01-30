@@ -51,12 +51,46 @@ Navigate --> Build --> Launch --> Excel
 ## Ch2: Navigating the Landscape
 
 ### What is AI?
+
+#### Various Definitions
+- Thinking Machines
+- Imitating Human Behaviour
+- Strong/Weak AI
+- Beneficial for Human & Society
+#### Brief History of AI
+
 #### Different Approaches
-#### Multi-disciplinary Field
+- Reasoning/Problem Solving
+- Knowledge Representation
+- Planning & Learning
+- Social & General Intelligence
+- Learning from Data
+
 #### Various Terminologies & Interconnection
+- Data Mining
+- Business Intelligence
+- Machine Learning
+- Deep Learning
+- Artificial Intelligence
+
+#### Multi-disciplinary Field
+- Mathematics
+- Computer Science
+- Domain Knowledge
+
 ### Why is AI Important?
-### Brief History of AI
-### AI Process & Different Roles
+- Solving problems with data
+- Optimizing Operations
+- Improving Decisions
+- Data Products
+
+### Applications of AI
+- Healthcare
+- Automotive
+- Finance & Economics
+- Cybersecurity
+- Government & Military
+
 ### Academics Vs Industry
 ### Current State of AI
 
@@ -69,6 +103,7 @@ Navigate --> Build --> Launch --> Excel
 #### Prepare the Data
 #### Build & Evaluate Models
 #### Deploy & Monitor
+
 ### Different Roles
 #### AI/ML Engineer
 #### Data Engineer
