@@ -140,8 +140,10 @@ Navigate --> Build --> Launch --> Excel
 
 ## Ch9: Leading AI Initiatives
 
-#### Build the Strategy
 #### Identify the Use Cases
+#### Execute Low-hanging Fruits
+#### Build & Train Team
+#### Develop AI Strategy
 #### Execute the Projects
 #### Reflect on the Outcomes
 
