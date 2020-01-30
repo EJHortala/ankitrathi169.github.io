@@ -50,56 +50,15 @@ Navigate --> Build --> Launch --> Excel
 
 ## Ch2: Navigating the Landscape
 
-### What is AI?
-
-#### Various Definitions
-- Thinking Machines
-- Imitating Human Behaviour
-- Strong/Weak AI
-- Beneficial for Human & Society
-
-#### Brief History of AI
-
-#### Different Approaches
-- Reasoning/Problem Solving
-- Knowledge Representation
-- Planning & Learning
-- Social & General Intelligence
-- Learning from Data
-
-#### Terminologies & Interconnection
-- Data Mining
-- Business Intelligence
-- Machine Learning
-- Deep Learning
-- Artificial Intelligence
-
-#### Multi-disciplinary Field
-- Mathematics
-- Computer Science/IT
-- Domain Knowledge
-
 ### Why is AI Important?
-- Solving problems with data
-- Optimizing Operations
-- Improving Decisions
-- Data Products
-
 ### Applications of AI
-- Healthcare
-- Banking & Insurance
-- Travel
-- Sales & Marketing
-- Automation
-- Manufacturing
-- Cybersecurity
-
+### What is AI?
+### Brief History of AI
+### Different Approaches
+### Terminologies & Interconnection
+### Multi-disciplinary Field
 ### Academics Vs Industry
-- AI Research
-- Applied AI
-
 ### Ethical AI
-
 ### Current State of AI
 
 ## Ch3: End-to-end AI Project
