@@ -51,15 +51,18 @@ Navigate --> Build --> Launch --> Excel
 ## [Ch2: Navigating the Landscape](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Navigating_the_Landscape.md)
 
 ### Why is AI Important?
-### Applications of AI
+#### Applications of AI
+
 ### What is AI?
-### Brief History of AI
-### Different Approaches
-### Terminologies & Interconnection
-### Multi-disciplinary Field
-### Academics Vs Industry
-### Ethical AI
-### Current State of AI
+#### Brief History of AI
+#### Different Approaches
+#### Terminologies & Interconnection
+#### Multi-disciplinary Field
+
+### Other Topics
+#### Academics Vs Industry
+#### Ethical AI
+#### Current State of AI
 
 ## Ch3: End-to-end AI Project
 
