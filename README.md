@@ -48,7 +48,7 @@ Navigate --> Build --> Launch --> Excel
 
 # Navigate
 
-## Ch2: Navigating the Landscape
+## [Ch2: Navigating the Landscape](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Navigating_the_Landscape.md)
 
 ### Why is AI Important?
 ### Applications of AI
