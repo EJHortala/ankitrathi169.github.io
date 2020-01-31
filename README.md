@@ -27,7 +27,8 @@ This is still work in progress, kindly provide your feedback on [ankitrathi.com]
 
 #### Proposed Framework:
 
-[Navigate](#Navigate) --> [Build](#Build) --> [Launch](#Launch) --> [Excel](#Excel)
+### [Navigate](#Navigate) --> [Build](#Build) --> [Launch](#Launch) --> [Excel](#Excel)
+
 
 ## Ch0: How to Make the Most of this Handbook
 
