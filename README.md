@@ -2,6 +2,7 @@
 ## Self-Starter Handbook
 ### Build Your Own Roadmap
 #### 2nd edition
+##### Revised & Extended
 
 This is still work in progress, kindly provide your feedback on [ankitrathi.com](http://ankitrathi.com/)
 
@@ -26,43 +27,43 @@ This is still work in progress, kindly provide your feedback on [ankitrathi.com]
 
 #### Proposed Framework:
 
-Navigate --> Build --> Launch --> Excel
+[Navigate](#Navigate) --> [Build](#Build) --> [Launch](#Launch) --> [Excel](#Excel)
 
 ## Ch0: How to Make the Most of this Handbook
 
-#### Cover the book end to end
-#### Identify the Gaps
-#### Build your own Roadmap
+### 0.1 Cover the Handbook
+### 0.2 Identify the Gaps
+### 0.3 Build your own Roadmap
 
 ## Ch1: Understanding the Big Picture
 
-### Navigating the landscape
-### End-to-end AI Project
-### Working on building blocks
-### Utilizing the resources
-### Building your portfolio
-### Networking & landing the job
-### Switching to an AI Role
-### Leading AI Initiatives
-### Making your career future-proof
+### 1.1 Navigating the landscape
+### 1.2 End-to-end AI Project
+### 1.3 Working on building blocks
+### 1.4 Utilizing the resources
+### 1.5 Building your portfolio
+### 1.6 Networking & landing the job
+### 1.7 Switching to an AI Role
+### 1.8 Leading AI Initiatives
+### 1.9 Making your career future-proof
 
 # Navigate
 
 ## [Ch2: Navigating the Landscape](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Navigating_the_Landscape.md)
 
-### Why is AI Important?
-### What is AI?
-### Brief History of AI
-### Different Approaches/Methods
-### Relation with Other Fields
-### Academics Vs Industry
-### Limitations of AI
-### Disadvantages of AI
-### Current State of AI
+### 2.1 Why is AI Important?
+### 2.2 What is AI?
+### 2.3 Brief History of AI
+### 2.4 Different Approaches/Methods
+### 2.5 Relation with Other Fields
+### 2.6 Academics Vs Industry
+### 2.7 Limitations of AI
+### 2.8 Disadvantages of AI
+### 2.9 Current State of AI
 
 ## Ch3: End-to-end AI Project
 
-### End-to-end Process
+### 3.1 End-to-end Process
 #### Identify & Assess the Use-cases
 #### Define the Problem
 #### Collect & Understand the Data
@@ -70,7 +71,7 @@ Navigate --> Build --> Launch --> Excel
 #### Build & Evaluate Models
 #### Deploy & Monitor
 
-### Different Roles
+### 3.2 Different Roles
 #### AI/ML Engineer
 #### Data Engineer
 #### Data Analyst
@@ -80,25 +81,27 @@ Navigate --> Build --> Launch --> Excel
 #### BI Engineer
 #### DevOps Engineer
 
+### 3.3 Process-Role Mapping
+
 # Build
 
 ## Ch4: Working on Building Blocks
 
-### Core Concepts
+### 4.1 Core Concepts
 #### Machine Learning
 #### Natural Language Processing
 #### Deep Learning
 #### General Adversarial Networks
 #### Reinforcement Learning
 
-### Peripheral Concepts
+### 4.2 Peripheral Concepts
 #### Data Engineering & Architecture
 #### Cloud Computing
 #### DevOps
 #### Enterprise AI
 #### Explainable AI
 
-### Tools to Master
+### 4.3 Tools to Master
 #### SQL
 #### Python
 #### Tensorflow
@@ -107,61 +110,61 @@ Navigate --> Build --> Launch --> Excel
 
 ## Ch5: Utilizing the Resources
 
-#### Books to Refer
-#### Courses to Attend
-#### Blogs to Follow
-#### Influencers to Connect
-#### Podcasts to Listen
-#### Channels to Subscribe
+### 5.1 Books to Refer
+### 5.2 Courses to Attend
+### 5.3 Blogs to Follow
+### 5.4 Influencers to Connect
+### 5.5 Podcasts to Listen
+### 5.6 Channels to Subscribe
 
 # Launch
 
 ## Ch6: Building your Portfolio
 
-#### Work on Public Data-sets
-#### Participate in Hackathons
-#### Publish on Git-Hub
-#### Guide the Beginners
-#### Start a Blog/Padcast/Channel
+### 6.1 Work on Public Data-sets
+### 6.2 Participate in Hackathons
+### 6.3 Publish on Git-Hub
+### 6.4 Guide the Beginners
+### 6.5 Start a Blog/Padcast/Channel
 
 ## Ch7: Networking & Landing the Job
 
-#### Network on LinkedIn
-#### Attend Meetups
-#### Prepare the CV
-#### Crack the Interview
+### 7.1 Network on LinkedIn
+### 7.2 Attend Meetups
+### 7.3 Prepare the CV
+### 7.4 Crack the Interview
 
 # Excel
 
 ## Ch8: Switching to an AI Role
 
-#### Build your Skills
-#### Identify AI Use cases
-#### Solve & Share
-#### Launch your Profile
-#### Look the Role Outside
+### 8.1 Build your Skills
+### 8.2 Identify AI Use cases
+### 8.3 Solve & Share
+### 8.4 Launch your Profile
+### 8.5 Look the Role Outside
 
 ## Ch9: Leading AI Initiatives
 
-#### Identify the Use Cases
-#### Execute Low-hanging Fruits
-#### Build & Train Team
-#### Develop AI Strategy
-#### Execute the Projects
-#### Reflect on the Outcomes
+### 9.1 Identify the Use Cases
+### 9.2 Execute Low-hanging Fruits
+### 9.3 Build & Train Team
+### 9.4 Develop AI Strategy
+### 9.5 Execute the Projects
+### 9.6 Reflect on the Outcomes
 
 ## Ch10: Making Your Career Future-Proof
 
-#### Monitor Industry Trends
-#### Build ‘Evolve’ Mindset
-#### Hone Core Skills
-#### Develop Soft Skills
-#### Maintain Digital Portfolio
-#### Expand Network Globally
+### 10.1 Monitor Industry Trends
+### 10.2 Build ‘Evolve’ Mindset
+### 10.3 Hone Core Skills
+### 10.4 Develop Soft Skills
+### 10.5 Maintain Digital Portfolio
+### 10.6 Expand Network Globally
 
 ## Ch11: Putting it All Together
 
-#### Avoid Being a Junkie
-#### Learn to Solve
-#### Just Enough Approach
-#### Conclusion
+### 11.1 Avoid Being a Junkie
+### 11.2 Learn to Solve
+### 11.3 Just Enough Approach
+### 11.4 Conclusion
