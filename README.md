@@ -36,42 +36,25 @@ Navigate --> Build --> Launch --> Excel
 
 ## Ch1: Understanding the Big Picture
 
-#### Navigating the landscape
-#### End-to-end AI Project
-#### Working on building blocks
-#### Utilizing the resources
-#### Building your portfolio
-#### Networking & landing the job
-#### Switching to an AI Role
-#### Leading AI Initiatives
-#### Making your career future-proof
+### Navigating the landscape
+### End-to-end AI Project
+### Working on building blocks
+### Utilizing the resources
+### Building your portfolio
+### Networking & landing the job
+### Switching to an AI Role
+### Leading AI Initiatives
+### Making your career future-proof
 
 # Navigate
 
 ## [Ch2: Navigating the Landscape](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Navigating_the_Landscape.md)
 
 ### Why is AI Important?
-#### Applications of AI
-
 ### What is AI?
-#### Analytical AI
-#### Human-inspired AI
-#### Humanized AI
-
 ### Brief History of AI
-
 ### Different Approaches/Methods
-#### Search and Optimization
-#### Logic
-#### Probabilistic Methods
-#### Statistical Learning
-#### Artificial Neural Networks
-
 ### Relation with Other Fields
-#### Artificial Intelligence Vs Data Science
-#### Artificial Intelligence Vs Machine Learning Vs Deep Learning
-#### Artificial Intelligence Vs Data Mining Vs Business Intelligence
-
 ### Academics Vs Industry
 ### Limitations of AI
 ### Disadvantages of AI
