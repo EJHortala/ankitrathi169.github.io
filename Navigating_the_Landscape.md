@@ -23,11 +23,11 @@
 - Achieving incredible accuracy
 - Outperforming humans
 
-## Why to learn AI?
+## As a Career
 - Skill of the future
 - More and more data
 - Opportunities everywhere
-- Lack of talent
+- Lack of talent/Great demand
 - Better career prospects
 
 
