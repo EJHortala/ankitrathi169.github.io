@@ -54,15 +54,28 @@ Navigate --> Build --> Launch --> Excel
 #### Applications of AI
 
 ### What is AI?
-#### Brief History of AI
-#### Different Approaches
-#### Terminologies & Interconnection
-#### Multi-disciplinary Field
+#### Analytical AI
+#### Human-inspired AI
+#### Humanized AI
 
-### Other Topics
-#### Academics Vs Industry
-#### Ethical AI
-#### Current State of AI
+### Brief History of AI
+
+### Different Approaches/Methods
+#### Search and Optimization
+#### Logic
+#### Probabilistic Methods
+#### Statistical Learning
+#### Artificial Neural Networks
+
+### Relation with Other Fields
+#### Artificial Intelligence Vs Data Science
+#### Artificial Intelligence Vs Machine Learning Vs Deep Learning
+#### Artificial Intelligence Vs Data Mining Vs Business Intelligence
+
+### Academics Vs Industry
+### Limitations of AI
+### Disadvantages of AI
+### Current State of AI
 
 ## Ch3: End-to-end AI Project
 
