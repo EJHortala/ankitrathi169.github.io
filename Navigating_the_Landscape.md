@@ -1,18 +1,18 @@
 ### Please note that this chapter is a general introduction to AI. Rest of the chapters focus on Machine Learning & Deep Learning part.
 
 # 2.1 Why is AI important?
-- Impacts Society & Business
-- Empowers Better Decisions
-- Helps Informed Actions
-- Optimizes Operations
-- Enables Opportunity Identification
-- Redefines Target Audience
-- Tests Decisions
-- Provides Competitive Advantage
-- Improves Communication
-- Better Web Searches
-- Improves Social Media
-- Tranforms work
+- Impacting daily lives, business & society
+- Empowering better decisions
+- Helping with informed actions
+- Optimizing operations
+- Enabling opportunity identification
+- Redefining target audience/customers
+- Testing decisions
+- Providing competitive advantage
+- Improving communication
+- Enabling better web searches
+- Improving social media
+- Tranforming work
 
 ## Importance of AI
 
