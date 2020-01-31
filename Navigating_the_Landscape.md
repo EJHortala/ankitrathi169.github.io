@@ -1,6 +1,6 @@
 ### Please note that this chapter is a general introduction to AI. Rest of the chapters focus on Machine Learning & Deep Learning part.
 
-# 1.1 Why is AI important?
+# 2.1 Why is AI important?
 - Impacts Society & Business
 - Empowers Better Decisions
 - Helps Informed Actions
@@ -21,7 +21,7 @@
 
 ![alt text](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Resources/WhyAI_2.jpg)
 
-# 1.2 What is AI?
+# 2.2 What is AI?
 
 - intelligence demonstrated by machines
 - that mimic "cognitive" functions
@@ -49,21 +49,10 @@ Can be classified into three different types of systems:
 - like cognitive, emotional, and social intelligence
 - self-conscious and self-aware 
 
-# 1.3 Relation to Other Fields
-
-## Artificial Intelligence Vs Data Science
-![alt text](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Resources/AIvsDS.jpg)
-
-## Artificial Intelligence Vs Machine Learning Vs Deep Learning
-![alt text](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Resources/AIvsMLvsDL.png)
-
-## Artificial Intelligence Vs Data Mining
-![alt text](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Resources/AIvsDM.jpg)
-
-# 1.4 Breif History of AI
+# 2.3 Breif History of AI
 ![alt text](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Resources/AI_Timeline.jpeg)
 
-# 1.5 Methods in AI
+# 2.4 Different Approaches/Methods
 
 ## Search and Optimization
 - Searching through many possible solutions
@@ -102,7 +91,20 @@ Can be classified into three different types of systems:
 - Use some form of gradient descent on neural topology
 - i.e. DNN, CNN, RNN, GAN
 
-# 1.6 Limitations of AI
+# 2.5 Relation to Other Fields
+
+## Artificial Intelligence Vs Data Science
+![alt text](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Resources/AIvsDS.jpg)
+
+## Artificial Intelligence Vs Machine Learning Vs Deep Learning
+![alt text](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Resources/AIvsMLvsDL.png)
+
+## Artificial Intelligence Vs Data Mining
+![alt text](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Resources/AIvsDM.jpg)
+
+# 2.6 Academics Vs Industry
+
+# 2.7 Limitations of AI
 
 ## Turing Test
 - Interrogator determines computer or human
@@ -118,7 +120,7 @@ Can be classified into three different types of systems:
 - "real" intelligence is whatever people can do that machines still cannot
 - So AI is whatever hasn't been done yet
 
-# 1.7 Disadvantages of AI
+# 2.8 Disadvantages of AI
 
 ## Bias in AI
 - AI programs may be programmed to be biased against certain groups
@@ -153,3 +155,5 @@ Can be classified into three different types of systems:
 - AI can evolve to the point that humans could not control it
 - But the hypothetical AI would have to overpower or out-think all of humanity
 - Some experts argue that it is a possibility far enough in the future to not be worth researching
+
+# 2.9 Current State of AI
