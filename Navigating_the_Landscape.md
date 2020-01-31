@@ -1,6 +1,8 @@
 ### Please note that this chapter is a general introduction to AI. Rest of the chapters focus on Machine Learning & Deep Learning part.
 
 # 2.1 Why is AI important?
+
+## In General
 - Impacting daily lives, business & society
 - Empowering better decisions
 - Helping with informed actions
@@ -13,6 +15,21 @@
 - Enabling better web searches
 - Improving social media
 - Tranforming work
+
+## Technically
+- Automating repetitive tasks
+- Discovering deep patterns
+- Adding intelligence in products
+- Achieving incredible accuracy
+- Outperforming humans
+
+## Why to learn AI?
+- Skill of the future
+- More and more data
+- Opportunities everywhere
+- Lack of talent
+- Better career prospects
+
 
 ## Importance of AI
 
