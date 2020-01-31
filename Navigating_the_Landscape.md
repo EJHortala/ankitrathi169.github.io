@@ -12,6 +12,7 @@
 - Improves Communication
 - Better Web Searches
 - Improves Social Media
+- Tranforms work
 
 ## Importance of AI
 
