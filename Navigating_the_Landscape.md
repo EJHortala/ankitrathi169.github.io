@@ -2,28 +2,29 @@
 
 # 2.1 Why is AI important?
 
-## In General
 - Impacting daily lives, business & society
+
+## Social
+- Automating repetitive tasks
 - Empowering better decisions
 - Helping with informed actions
+- Enabling better web searches
+- Improving social media
+- Tranforming work
+- Outperforming humans
+- Improving communication
+
+## Business
 - Optimizing operations
 - Enabling opportunity identification
 - Redefining target audience/customers
 - Testing decisions
 - Providing competitive advantage
-- Improving communication
-- Enabling better web searches
-- Improving social media
-- Tranforming work
-
-## Technically
-- Automating repetitive tasks
 - Discovering deep patterns
 - Adding intelligence in products
 - Achieving incredible accuracy
-- Outperforming humans
 
-## As a Career
+## Career
 - Skill of the future
 - More and more data
 - Opportunities everywhere
