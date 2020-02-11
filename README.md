@@ -166,7 +166,12 @@ This is still work in progress, kindly provide your feedback on [ankitrathi.com]
 
 ## Ch11: Putting it All Together
 
-### 11.1 Avoid Being a Junkie
-### 11.2 Learn to Solve
-### 11.3 Just Enough Approach
-### 11.4 Conclusion
+### 11.1 Master the Basics
+### 11.2 Avoid Being a Junkie
+### 11.3 Learn to Solve
+### 11.4 Just Enough Approach
+### 11.5 Handle Data Like a Pro
+### 11.6 Understand the Context
+### 11.7 Improve Communication
+### 11.8 Build T-shaped Skill-set
+### 11.9 Conclusion
