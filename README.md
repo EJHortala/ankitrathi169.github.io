@@ -124,7 +124,7 @@ This is still work in progress, kindly provide your feedback on [ankitrathi.com]
 
 ### 6.1 Work on Public Data-sets
 ### 6.2 Participate in Hackathons
-### 6.3 Publish on Git-Hub
+### 6.3 Publish projects on Git-Hub
 ### 6.4 Guide the Beginners
 ### 6.5 Start a Blog/Padcast/Channel
 
@@ -132,8 +132,9 @@ This is still work in progress, kindly provide your feedback on [ankitrathi.com]
 
 ### 7.1 Network on LinkedIn
 ### 7.2 Attend Meetups
-### 7.3 Prepare the CV
-### 7.4 Crack the Interview
+### 7.4 Search, Filter & Apply
+### 7.3 Fine-Tune your CV
+### 7.5 Crack the Interview
 
 # Excel
 
