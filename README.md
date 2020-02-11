@@ -159,8 +159,8 @@ This is still work in progress, kindly provide your feedback on [ankitrathi.com]
 
 ### 10.1 Monitor Industry Trends
 ### 10.2 Build ‘Evolve’ Mindset
-### 10.3 Hone Core Skills
-### 10.4 Develop Soft Skills
+### 10.3 T-shaped Skill-set
+### 10.4 Hone Soft Skills
 ### 10.5 Maintain Digital Portfolio
 ### 10.6 Expand Network Globally
 
@@ -171,7 +171,5 @@ This is still work in progress, kindly provide your feedback on [ankitrathi.com]
 ### 11.3 Learn to Solve
 ### 11.4 Just Enough Approach
 ### 11.5 Handle Data Like a Pro
-### 11.6 Understand the Context
-### 11.7 Improve Communication
-### 11.8 Build T-shaped Skill-set
-### 11.9 Conclusion
+### 11.6 Focus on Context
+### 11.7 Conclusion
