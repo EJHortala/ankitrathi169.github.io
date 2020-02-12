@@ -82,7 +82,13 @@ This is still work in progress, kindly provide your feedback on [ankitrathi.com]
 #### BI Engineer
 #### DevOps Engineer
 
-### 3.3 Process-Role Mapping
+### 3.3 Hackathons Vs Real World
+#### Identify & Assess the Use-cases
+#### Define the Problem
+#### Collect & Understand the Data
+#### Prepare the Data
+#### Build & Evaluate Models
+#### Deploy & Monitor
 
 # Build
 
