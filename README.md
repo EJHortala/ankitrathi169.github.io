@@ -6,7 +6,7 @@
 
 This is still work in progress, kindly provide your feedback on [ankitrathi.com](http://ankitrathi.com/)
 
-![alt text](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Resources/AI_Self-Starter_Handbook.jpg)
+![alt text](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Resources/AI_Self-Starter_Handbook_3DCombined.jpg)
 
 #### Questions answered in this book:
 
