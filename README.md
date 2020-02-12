@@ -62,7 +62,7 @@ This is still work in progress, kindly provide your feedback on [ankitrathi.com]
 ### 2.8 Disadvantages of AI
 ### 2.9 Current State of AI
 
-## Ch3: End-to-end AI Project
+## Ch3: Real-World AI Projects
 
 ### 3.1 End-to-end Process
 #### Identify & Assess the Use-cases
