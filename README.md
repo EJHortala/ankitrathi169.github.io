@@ -66,11 +66,11 @@ This is still work in progress, kindly provide your feedback on [ankitrathi.com]
 
 ### 3.1 End-to-end Process
 #### Identify & Assess the Use-cases
-#### Define the Problem
+#### Define the Problem & KPIs
 #### Collect & Understand the Data
-#### Prepare the Data
+#### Clean & Prepare the Data
 #### Build & Evaluate Models
-#### Deploy & Monitor
+#### Deploy & Monitor KPIs
 
 ### 3.2 Different Roles
 #### AI/ML Engineer
@@ -102,7 +102,8 @@ This is still work in progress, kindly provide your feedback on [ankitrathi.com]
 #### Reinforcement Learning
 
 ### 4.2 Peripheral Concepts
-#### Data Engineering & Architecture
+#### Data Engineering
+#### Solution Architecture
 #### Cloud Computing
 #### DevOps
 #### Enterprise AI
