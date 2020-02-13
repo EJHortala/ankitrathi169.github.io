@@ -96,8 +96,29 @@ This is still work in progress, kindly provide your feedback on [ankitrathi.com]
 
 ### 4.1 Core Concepts
 #### Machine Learning
+##### Machine Learning Concepts
+###### Gradient Descent
+Batch Gradient Descent
+Stochastic Gradient Descent
+Mini-batch Gradient Descent
+###### Performance Measures
+###### Error Analysis
+###### Computational Complexity
+###### Types of Machine Learning
+Supervised & Unsupervised Learning
+Batch & Online Learning
+Instance-based Vs Model-based Learning
+###### Challenges in Machine Learning
+Insufficient Data
+Nonrepresentative Data
+Poor-Quality Data
+Irrelevant Features
+Overfitting & Underfitting
+##### Machine Learning Algorithms
 #### Natural Language Processing
 #### Deep Learning
+##### Deep Learning Concepts
+##### Deep Neural Networks
 #### General Adversarial Networks
 #### Reinforcement Learning
 
