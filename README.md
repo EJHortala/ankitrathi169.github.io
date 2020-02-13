@@ -30,11 +30,21 @@ This is still work in progress, kindly provide your feedback on [ankitrathi.com]
 ### [Navigate](#Navigate) --> [Build](#Build) --> [Launch](#Launch) --> [Excel](#Excel)
 
 
-## Ch0: How to Make the Most of this Handbook
+## Ch0: About the Handbook
 
-### 0.1 Cover the Handbook
-### 0.2 Identify the Gaps
-### 0.3 Build your own Roadmap
+### 0.1 Why this Handbook?
+#### Too many resources for starters
+#### Mostly low quality material
+#### No end-to-end view
+#### Money minting courses
+
+### 0.2 What this Handbook covers?
+#### Not a typical concept or hands-on book
+#### Focuses on effective utilization of existing resources
+#### Equivalent to a guide
+
+### 0.3 Who this handbook is for?
+#### Literally everyone
 
 ## Ch1: Understanding the Big Picture
 
