@@ -96,25 +96,6 @@ This is still work in progress, kindly provide your feedback on [ankitrathi.com]
 
 ### 4.1 Core Concepts
 #### Machine Learning
-##### Machine Learning Concepts
-###### Gradient Descent
-Batch Gradient Descent
-Stochastic Gradient Descent
-Mini-batch Gradient Descent
-###### Performance Measures
-###### Error Analysis
-###### Computational Complexity
-###### Types of Machine Learning
-Supervised & Unsupervised Learning
-Batch & Online Learning
-Instance-based Vs Model-based Learning
-###### Challenges in Machine Learning
-Insufficient Data
-Nonrepresentative Data
-Poor-Quality Data
-Irrelevant Features
-Overfitting & Underfitting
-##### Machine Learning Algorithms
 #### Natural Language Processing
 #### Deep Learning
 ##### Deep Learning Concepts
@@ -124,8 +105,8 @@ Overfitting & Underfitting
 
 ### 4.2 Peripheral Concepts
 #### Data Engineering
-#### Solution Architecture
 #### Cloud Computing
+#### Solution Architecture
 #### DevOps
 #### Enterprise AI
 #### Explainable AI
@@ -201,3 +182,44 @@ Overfitting & Underfitting
 ### 11.5 Handle Data Like a Pro
 ### 11.6 Focus on Context
 ### 11.7 Conclusion
+
+# Appendix
+
+## A. Machine Learning
+
+### Machine Learning Concepts
+#### Gradient Descent
+##### Batch Gradient Descent
+##### Stochastic Gradient Descent
+##### Mini-batch Gradient Descent
+#### Performance Measures
+#### Error Analysis
+#### Computational Complexity
+#### Types of Machine Learning
+##### Supervised & Unsupervised Learning
+##### Batch & Online Learning
+##### Instance-based Vs Model-based Learning
+#### Challenges in Machine Learning
+##### Insufficient Data
+##### Nonrepresentative Data
+##### Poor-Quality Data
+##### Irrelevant Features
+##### Overfitting & Underfitting
+
+### Machine Learning Algorithms
+
+## B. Natural Language Processing
+### NLP Concepts
+### NLP Techniques
+
+## C. Deep Learning
+### DL Concepts
+### DL Frameworks
+
+## D. Data Engineering
+
+## E. Cloud Computing
+
+## F. DevOps & MLOps
+
+## G. AI Tool-Box 
