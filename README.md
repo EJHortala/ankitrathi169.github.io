@@ -94,16 +94,19 @@ This is still work in progress, kindly provide your feedback on [ankitrathi.com]
 
 ## Ch4: Working on Building Blocks
 
-### 4.1 Core Concepts
+### 4.1 Pre-requisites
+#### Mathematics
+#### Programming
+#### Data Literacy
+
+### 4.2 Core Concepts
 #### Machine Learning
 #### Natural Language Processing
 #### Deep Learning
-##### Deep Learning Concepts
-##### Deep Neural Networks
 #### General Adversarial Networks
 #### Reinforcement Learning
 
-### 4.2 Peripheral Concepts
+### 4.3 Peripheral Concepts
 #### Data Engineering
 #### Cloud Computing
 #### Solution Architecture
@@ -111,7 +114,7 @@ This is still work in progress, kindly provide your feedback on [ankitrathi.com]
 #### Enterprise AI
 #### Explainable AI
 
-### 4.3 Tools to Master
+### 4.4 Tools to Master
 #### SQL
 #### Python
 #### Tensorflow
@@ -185,7 +188,13 @@ This is still work in progress, kindly provide your feedback on [ankitrathi.com]
 
 # Appendix
 
-## A. Machine Learning
+## A. Mathematics for AI
+### Probability
+### Statistics
+### Linear Algebra
+### Multivariate Calculus
+
+## B. Machine Learning
 
 ### Machine Learning Concepts
 #### Gradient Descent
@@ -199,6 +208,10 @@ This is still work in progress, kindly provide your feedback on [ankitrathi.com]
 ##### Supervised & Unsupervised Learning
 ##### Batch & Online Learning
 ##### Instance-based Vs Model-based Learning
+#### Ensemble Learning
+##### Bagging
+##### Boosting
+##### Stacking
 #### Challenges in Machine Learning
 ##### Insufficient Data
 ##### Nonrepresentative Data
@@ -207,19 +220,49 @@ This is still work in progress, kindly provide your feedback on [ankitrathi.com]
 ##### Overfitting & Underfitting
 
 ### Machine Learning Algorithms
+#### Linear Regression
+#### Logistic Regression
+#### kNN Algorithm
+#### Naive Bayes
+#### Decision Trees & Random Forests
+#### Support Vector Machines
+#### Neural Networks
+#### Dimensionality Reduction
+#### kMeans Algorithm
+#### Associative Learning
+#### Anomaly Detection
 
-## B. Natural Language Processing
+## C. Natural Language Processing
 ### NLP Concepts
+#### Lexical Processing
+#### Syntactical Processing
+#### Semantic Processing
 ### NLP Techniques
 
-## C. Deep Learning
+## D. Deep Learning
 ### DL Concepts
+#### Artificial Neuron
+#### Perceptron & MLP
+#### Forward & Backpropogation
+#### Fine Tuning Hyperparameters
+#### Vanishing & Exploding Gradients
+#### Reusing Pretrained Models
+#### Faster Optimizers
+#### Regularization
 ### DL Frameworks
+#### CNN
+#### RNN & LSTM
+#### GAN
 
-## D. Data Engineering
+## E. Data Engineering
 
-## E. Cloud Computing
+## F. Cloud Computing
 
-## F. DevOps & MLOps
+## G. DevOps & MLOps
 
-## G. AI Tool-Box 
+## H. AI Tool-Box 
+### SQL
+### Python
+### Tensorflow
+### Keras
+### R
