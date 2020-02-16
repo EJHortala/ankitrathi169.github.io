@@ -37,6 +37,7 @@ This is still work in progress, kindly provide your feedback on [ankitrathi.com]
 #### Mostly low quality material
 #### No end-to-end view
 #### Money minting courses
+#### Beginners' FAQs
 
 ### 0.2 What this Handbook covers?
 #### Not a typical concept or hands-on book
@@ -208,26 +209,16 @@ This is still work in progress, kindly provide your feedback on [ankitrathi.com]
 
 ### Machine Learning Concepts
 #### Gradient Descent
-##### Batch Gradient Descent
-##### Stochastic Gradient Descent
-##### Mini-batch Gradient Descent
+Batch Gradient Descent, Stochastic Gradient Descent, Mini-batch Gradient Descent
 #### Performance Measures
 #### Error Analysis
 #### Computational Complexity
 #### Types of Machine Learning
-##### Supervised & Unsupervised Learning
-##### Batch & Online Learning
-##### Instance-based Vs Model-based Learning
+Supervised & Unsupervised Learning, Batch & Online Learning, Instance-based Vs Model-based Learning
 #### Ensemble Learning
-##### Bagging
-##### Boosting
-##### Stacking
+Bagging, Boosting, Stacking
 #### Challenges in Machine Learning
-##### Insufficient Data
-##### Nonrepresentative Data
-##### Poor-Quality Data
-##### Irrelevant Features
-##### Overfitting & Underfitting
+Insufficient Data, Nonrepresentative Data, Poor-Quality Data, Irrelevant Features, Overfitting & Underfitting
 
 ### Machine Learning Algorithms
 #### Linear Regression
