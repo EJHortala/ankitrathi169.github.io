@@ -242,18 +242,17 @@ Insufficient Data, Nonrepresentative Data, Poor-Quality Data, Irrelevant Feature
 
 ## D. Deep Learning
 ### DL Concepts
-#### Artificial Neuron
-#### Perceptron & MLP
-#### Forward & Backpropogation
-#### Fine Tuning Hyperparameters
-#### Vanishing & Exploding Gradients
-#### Reusing Pretrained Models
-#### Faster Optimizers
-#### Regularization
+Artificial Neuron, Perceptron & MLP, Forward & Backpropogation, Fine Tuning Hyperparameters, Vanishing & Exploding Gradients, Reusing Pretrained Models, Faster Optimizers, Regularization
 ### DL Frameworks
 #### CNN
+Convolution Layer, Pooling Layer, CNN Architectures, Classification & Localization, Object Detection, Semantic Segmentation
 #### RNN & LSTM
-#### GAN
+Recurrent Neurons, Memory Cells, Long Sequences, Short-Term Memory Problem, Stateful RNN, Masking, Bidirectional RNNs, Beam Search, Attendtion Mechanism
+#### Autoencoders
+Linear Encoders, Stacked Encoders, Convolutional Autoencoders, Recurrent Autoencoders, Denoising Autoencoders, Sparse Autoencoders, Variational Autoencoders
+#### GANs
+Generative models, Generative Matching Networks, Generative Adversarial Networks, Generator and Discriminator
+
 
 ## E. Data Engineering
 
