@@ -236,9 +236,13 @@ Insufficient Data, Nonrepresentative Data, Poor-Quality Data, Irrelevant Feature
 ## C. Natural Language Processing
 ### NLP Concepts
 #### Lexical Processing
-#### Syntactical Processing
-#### Semantic Processing
+Regex, Tokenization, Bag of Words, Tf-Idf, Canocalization, Stemming, Lemmatization
+##### Syntactical Processing
+POS Tagging, Markov Chain, Information Extraction, Named Entity Extraction
+##### Semantic Processing
+Entity, Arity, Latent Semantic Analysis, Topic Modelling
 ### NLP Techniques
+
 
 ## D. Deep Learning
 ### DL Concepts
