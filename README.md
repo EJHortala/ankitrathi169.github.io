@@ -49,40 +49,34 @@ This is still work in progress, kindly provide your feedback on [ankitrathi.com]
 ## Ch1: Understanding the Big Picture
 
 ### 1.1 AI-DIY Framework 
-#### BYOR Framework
-#### AI Concepts
-#### AI Tools
-#### AI Capstone
+BYOR Framework, AI Concepts, AI Tools, AI Capstone
 
 ### 1.2 BYOR Framework
-#### Navigating the landscape
-#### End-to-end AI Project
-#### Working on building blocks
-#### Utilizing the resources
-#### Building your portfolio
-#### Networking & landing the job
-#### Switching to an AI Role
-#### Leading AI Initiatives
-#### Making your career future-proof
+#### Navigate
+Navigating the landscape, End-to-end AI Project
+#### Build
+Working on building blocks, Utilizing the resources
+#### Launch
+Building your portfolio, Networking & landing the job
+#### Excel
+Switching to an AI Role, Leading AI Initiatives, Making your career future-proof
 
 ### 1.3 AI Concepts
-#### Machine Learning
-#### Natural Language Processing
-#### Deep Learning
-#### Reinforcement Learning
+#### Pre-requisites
+Mathematics, Programming, Data Literacy
+#### Core Concepts
+Machine Learning, Natural Language Processing, Deep Learning, Reinforcement Learning
+#### Peripheral Concepts
+Data Engineering, Cloud Computing, Solution Architecture, DevOps, Enterprise AI, Explainable AI
 
 ### 1.4 AI Tools
-#### SQL
-#### Python
-#### Keras
-#### Tensorflow
+#### Core Tools
+SQL, Python, Keras, Tensorflow
+#### Peripheral Tools
+Hadoop, Spark, AWS, Azure, Kubernetes, Jenkins, Tableau, PowerBI
 
 ### 1.5 AI Capstone
-#### Titanic Prediction
-#### Housing Prices
-#### IMDB Reviews
-#### Digit Recognizer
-#### Checkers Game
+Titanic Prediction, Housing Prices, IMDB Reviews, Digit Recognizer, Checkers Game
 
 # BYOR_Framework
 
