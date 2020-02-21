@@ -311,9 +311,16 @@ Generative models, Generative Matching Networks, Generative Adversarial Networks
 ### Advanced SQL
 
 ## Ch21. Python
-### 
+### Introduction
+### Language Basics
+### NumPy
+### SciPy
+### Pandas
+### MatPlotLib
+### skLearn
 
 ## Ch21. Keras
+
 ## Ch22. Tensorflow
 
 # AI_Capstone
