@@ -331,10 +331,3 @@ Generative models, Generative Matching Networks, Generative Adversarial Networks
 #### Deploy & Monitor KPIs
 
 ## E. Checkers Game
-#### Define the Problem & KPIs
-#### Collect & Understand the Data
-#### Clean & Prepare the Data
-#### Build & Evaluate Models
-#### Deploy & Monitor KPIs
-
-
