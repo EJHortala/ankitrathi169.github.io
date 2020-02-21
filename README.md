@@ -25,9 +25,11 @@ This is still work in progress, kindly provide your feedback on [ankitrathi.com]
 - How to lead an AI initiative in your organization?
 - How to stay up to date in this ever-evolving field?
 
-# DIY Framework --> AI Concepts --> AI Tools
+# AI DIY Framework
 
-## DIY Framework
+## BYOR Framework --> AI Concepts --> AI Tools --> AI Capstone 
+
+## BYOR Framework
 
 ### [Navigate](#Navigate) --> [Build](#Build) --> [Launch](#Launch) --> [Excel](#Excel)
 
@@ -259,18 +261,28 @@ Linear Encoders, Stacked Encoders, Convolutional Autoencoders, Recurrent Autoenc
 #### GANs
 Generative models, Generative Matching Networks, Generative Adversarial Networks, Generator and Discriminator
 
+## Ch16. Reinforcement Learning
 
-## Ch16. Data Engineering
 
-## Ch17. Cloud Computing
+## Ch17. Data Engineering
 
-## Ch18. DevOps & MLOps
+## Ch18. Cloud Computing
+
+## Ch19. DevOps & MLOps
 
 # AI Tools
 
-## Ch19. SQL
-## Ch20. Python
+## Ch20. SQL
+## Ch21. Python
 ## Ch21. Keras
 ## Ch22. Tensorflow
+
+# AI Capstone
+
+## A. Titanic Prediction
+## B. Housing Prices
+## C. IMDB Reviews
+## D. Digit Recognizer
+## E. Checkers
 
 
