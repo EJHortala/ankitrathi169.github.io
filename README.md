@@ -210,7 +210,7 @@ Efficient Data Representations, Linear Autoencoder & PCA, Stacked Autoencoders, 
 #### GANs
 GANs, Deep Convolutional GANs, Progressive Growing of GANs, StyleGANs
 
-## Ch16. Reinforcement Learning
+## [Ch16. Reinforcement Learning](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Ch16_Reinforcement_Learning.md)
 Introduction, Policy Search, Neural Network Policies, Evaluating Actions, Policy Gradients, Markov Decision Processes, Temporal Difference Learning, Q-Learning, Deep Q-Learning, Actor-Critic algorithms, Asynchronous Advantage Actor-Critic (A3C), Advantage Actor-Critic (A2C), Soft Actor-Critic (SAC), Proximal Policy Optimization (PPO), Curiosity-based exploration
 
 ## Ch17. Peripheral Concepts
