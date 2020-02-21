@@ -6,31 +6,46 @@
 
 This is still work in progress, kindly provide your feedback on [ankitrathi.com](http://ankitrathi.com/)
 
+# AI DIY Framework
+
+## [Navigate](#Navigate) --> [Build](#Build) --> [Launch](#Launch) --> [Excel](#Excel)
+
+## Build (extended)
+
+### [AI Concepts](#AI_Concepts) --> [AI Tools](#AI_Tools) --> [AI Capstone](#AI_Capstone)
+
 ![alt text](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Resources/AI-DIY-Cover.jpg)
 
 ### Table of Contents
 - [Ch0: About the Handbook](https://ankitrathi169.github.io/#ch0-about-the-handbook)
 - [Ch1: Understanding the Big Picture](https://ankitrathi169.github.io/#ch1-understanding-the-big-picture)
+#### Navigate
 - [Ch2: Navigating the Landscape](https://ankitrathi169.github.io/#ch2-navigating-the-landscape)
 - [Ch3: Real-World AI Projects](https://ankitrathi169.github.io/#ch3-real-world-ai-projects)
+#### Build
 - [Ch4: Working on Building Blocks](https://ankitrathi169.github.io/#ch4-working-on-building-blocks)
 - [Ch5: Utilizing the Resources](https://ankitrathi169.github.io/#ch5-utilizing-the-resources)
+#### Launch
 - [Ch6: Building your Portfolio](https://ankitrathi169.github.io/#ch6-building-your-portfolio)
 - [Ch7: Networking & Landing the Job](https://ankitrathi169.github.io/#ch7-networking--landing-the-job)
+#### Excel
 - [Ch8: Switching to an AI Role](https://ankitrathi169.github.io/#ch8-switching-to-an-ai-role)
 - [Ch9: Leading AI Initiatives](https://ankitrathi169.github.io/#ch9-leading-ai-initiatives)
 - [Ch10: Making Your Career Future-Proof](https://ankitrathi169.github.io/#ch10-making-your-career-future-proof)
 - [Ch11: Putting it All Together](https://ankitrathi169.github.io/#ch11-putting-it-all-together)
+#### AI_Concepts
 - [Ch12: Mathematics for AI](https://ankitrathi169.github.io/#ch12-mathematics-for-ai)
 - [Ch13: Machine Learning](https://ankitrathi169.github.io/#ch13-machine-learning)
 - [Ch14: Natural Language Processing](https://ankitrathi169.github.io/#ch14-natural-language-processing)
 - [Ch15: Deep Learning](https://ankitrathi169.github.io/#ch15-deep-learning)
 - [Ch16: Reinforcement Learning](https://ankitrathi169.github.io/#ch16-reinforcement-learning)
 - [Ch17: Peripheral Concepts](https://ankitrathi169.github.io/#ch17-peripheral-concepts)
+#### AI_Tools
 - [Ch18: SQL](https://ankitrathi169.github.io/#ch18-sql)
 - [Ch19: Python](https://ankitrathi169.github.io/#ch19-python)
 - [Ch20: Keras](https://ankitrathi169.github.io/#ch20-keras)
 - [Ch21: Tensorflow](https://ankitrathi169.github.io/#ch21-tensorflow)
+#### AI_Capstone
 - [Ch22: Capstone Projects](https://ankitrathi169.github.io/#ch22-capstone-projects)
 
 
@@ -50,16 +65,6 @@ This is still work in progress, kindly provide your feedback on [ankitrathi.com]
 - How to switch into an AI role (inside or outside)?
 - How to lead an AI initiative in your organization?
 - How to stay up to date in this ever-evolving field?
-
-# AI DIY Framework
-
-## [Navigate](#Navigate) --> [Build](#Build) --> [Launch](#Launch) --> [Excel](#Excel)
-
-## Build (extended)
-
-### [AI Concepts](#AI_Concepts) --> [AI Tools](#AI_Tools) --> [AI Capstone](#AI_Capstone)
-
-
 
 ## Ch0: About the Handbook
 
