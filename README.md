@@ -27,7 +27,7 @@ This is still work in progress, kindly provide your feedback on [ankitrathi.com]
 
 # AI DIY Framework
 
-## [BYOR Framework](#BYOR_Framework) --> AI Concepts --> AI Tools --> AI Capstone 
+## [BYOR Framework](#BYOR_Framework) --> [AI Concepts](#AI_Concepts) --> [AI Tools](#AI_Tools) --> [AI Capstone](#AI_Capstone)
 
 ## BYOR Framework
 
@@ -224,7 +224,7 @@ This is still work in progress, kindly provide your feedback on [ankitrathi.com]
 ### 11.6 Focus on Context
 ### 11.7 Conclusion
 
-# AI Concepts
+# AI_Concepts
 
 ## Ch12. Mathematics for AI
 ### Probability
@@ -293,14 +293,14 @@ Generative models, Generative Matching Networks, Generative Adversarial Networks
 
 ## Ch19. DevOps & MLOps
 
-# AI Tools
+# AI_Tools
 
 ## Ch20. SQL
 ## Ch21. Python
 ## Ch21. Keras
 ## Ch22. Tensorflow
 
-# AI Capstone
+# AI_Capstone
 
 ## A. Titanic Prediction
 ## B. Housing Prices
