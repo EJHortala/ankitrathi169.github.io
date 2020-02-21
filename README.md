@@ -295,8 +295,15 @@ Generative models, Generative Matching Networks, Generative Adversarial Networks
 # AI_Tools
 
 ## Ch20. SQL
+### Introduction
+### RDBMS Concepts
+### DDL, DML & DCL 
+### Basic SQL
+### Advanced SQL
 
 ## Ch21. Python
+### 
+
 ## Ch21. Keras
 ## Ch22. Tensorflow
 
