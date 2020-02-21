@@ -37,14 +37,10 @@ This is still work in progress, kindly provide your feedback on [ankitrathi.com]
 ## Ch0: About the Handbook
 
 ### 0.1 Why this Handbook?
-#### Too many resources for starters
-#### Mostly low quality material
-#### No end-to-end view
-#### Money minting courses
-#### Beginners' FAQs
+Too many resources for starters, Mostly low quality material, No end-to-end view, Money minting courses, Beginners' FAQs
 
 ### 0.2 Who this handbook is for?
-#### Literally everyone
+Literally everyone
 
 ## Ch1: Understanding the Big Picture
 
@@ -84,147 +80,74 @@ Titanic Prediction, Housing Prices, IMDB Reviews, Digit Recognizer, Checkers Gam
 
 ## [Ch2: Navigating the Landscape](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Navigating_the_Landscape.md)
 
-### 2.1 Why is AI Important?
-### 2.2 What is AI?
-### 2.3 Brief History of AI
-### 2.4 Different Approaches/Methods
-### 2.5 Relation with Other Fields
-### 2.6 Academics Vs Industry
-### 2.7 Limitations of AI
-### 2.8 Disadvantages of AI
-### 2.9 Current State of AI
+Why is AI Important?, What is AI?, Brief History of AI, Different Approaches/Methods, Relation with Other Fields, Academics Vs Industry, Limitations of AI, Disadvantages of AI, Current State of AI
 
 ## Ch3: Real-World AI Projects
 
 ### 3.1 End-to-end Process
-#### Identify & Assess the Use-cases
-#### Define the Problem & KPIs
-#### Collect & Understand the Data
-#### Clean & Prepare the Data
-#### Build & Evaluate Models
-#### Deploy & Monitor KPIs
+Identify & Assess the Use-cases, Define the Problem & KPIs, Collect & Understand the Data, Clean & Prepare the Data, Build & Evaluate Models, Deploy & Monitor KPIs
 
 ### 3.2 Different Roles
-#### AI/ML Engineer
-#### Data Engineer
-#### Data Analyst
-#### Software Engineer
-#### Product Owner
-#### Business Owner
-#### BI Engineer
-#### DevOps Engineer
+Data Scientist, AI/ML Engineer, Data Engineer, Data Analyst, Software Engineer, Product Owner, Business Owner, BI Engineer, DevOps Engineer
 
 ### 3.3 Hackathons Vs Real World
-#### Identify & Assess the Use-cases
-#### Define the Problem
-#### Collect & Understand the Data
-#### Prepare the Data
-#### Build & Evaluate Models
-#### Deploy & Monitor
+Identify & Assess the Use-cases, Define the Problem, Collect & Understand the Data, Prepare the Data, Build & Evaluate Models, Deploy & Monitor
 
 # Build
 
 ## Ch4: Working on Building Blocks
 
 ### 4.1 Pre-requisites
-#### Mathematics
-#### Programming
-#### Data Literacy
+Mathematics, Programming, Data Literacy
 
 ### 4.2 Core Concepts
-#### Machine Learning
-#### Natural Language Processing
-#### Deep Learning
-#### General Adversarial Networks
-#### Reinforcement Learning
+Machine Learning, Natural Language Processing, Deep Learning, General Adversarial Networks, Reinforcement Learning
 
 ### 4.3 Peripheral Concepts
-#### Data Engineering
-#### Cloud Computing
-#### Solution Architecture
-#### DevOps
-#### Enterprise AI
-#### Explainable AI
+Data Engineering, Cloud Computing, Solution Architecture, DevOps, Enterprise AI, Explainable AI
 
 ### 4.4 Tools to Master
-#### SQL
-#### Python
-#### Tensorflow
-#### Keras
-#### R
+SQL, Python, Keras, Tensorflow, R
 
 ## Ch5: Utilizing the Resources
-
-### 5.1 Books to Refer
-### 5.2 Courses to Attend
-### 5.3 Blogs to Follow
-### 5.4 Influencers to Connect
-### 5.5 Podcasts to Listen
-### 5.6 Channels to Subscribe
+Books to Refer, Courses to Attend, Blogs to Follow, Influencers to Connect, Podcasts to Listen, Channels to Subscribe
 
 # Launch
 
 ## Ch6: Building your Portfolio
-
-### 6.1 Work on Public Data-sets
-### 6.2 Participate in Hackathons
-### 6.3 Publish projects on Git-Hub
-### 6.4 Guide the Beginners
-### 6.5 Start a Blog/Padcast/Channel
+Work on Public Data-sets, Participate in Hackathons, Publish projects on Git-Hub, Guide the Beginners, Start a Blog/Padcast/Channel
 
 ## Ch7: Networking & Landing the Job
-
-### 7.1 Network on LinkedIn
-### 7.2 Attend Meetups
-### 7.4 Search, Filter & Apply
-### 7.3 Fine-Tune your CV
-### 7.5 Crack the Interview
+Network on LinkedIn, Attend Meetups, Search-Filter & Apply, Fine-Tune your CV, Crack the Interview
 
 # Excel
 
 ## Ch8: Switching to an AI Role
-
-### 8.1 Build your Skills
-### 8.2 Identify AI Use cases
-### 8.3 Solve & Share
-### 8.4 Launch your Profile
-### 8.5 Look the Role Outside
+Build your Skills, Identify AI Use cases, Solve & Share, Launch your Profile, Look the Role Outside
 
 ## Ch9: Leading AI Initiatives
-
-### 9.1 Identify the Use Cases
-### 9.2 Execute Low-hanging Fruits
-### 9.3 Build & Train Team
-### 9.4 Develop AI Strategy
-### 9.5 Execute the Projects
-### 9.6 Reflect on the Outcomes
+Identify the Use Cases, Execute Low-hanging Fruits, Build & Train Team, Develop AI Strategy, Execute the Projects, Reflect on the Outcomes
 
 ## Ch10: Making Your Career Future-Proof
-
-### 10.1 Monitor Industry Trends
-### 10.2 Build ‘Evolve’ Mindset
-### 10.3 T-shaped Skill-set
-### 10.4 Hone Soft Skills
-### 10.5 Maintain Digital Portfolio
-### 10.6 Expand Network Globally
+Monitor Industry Trends, Build ‘Evolve’ Mindset, T-shaped Skill-set, Hone Soft Skills, Maintain Digital Portfolio, Expand Network Globally
 
 ## Ch11: Putting it All Together
-
-### 11.1 Master the Basics
-### 11.2 Avoid Being a Junkie
-### 11.3 Learn to Solve
-### 11.4 Just Enough Approach
-### 11.5 Handle Data Like a Pro
-### 11.6 Focus on Context
-### 11.7 Conclusion
+Master the Basics, Avoid Being a Junkie, Learn to Solve, Just Enough Approach, Handle Data Like a Pro, Focus on Context
 
 # AI_Concepts
 
 ## Ch12. Mathematics for AI
 ### Probability
+Introduction, Conditional Probability
+
 ### Statistics
+Introduction, Descriptive Statistics, Inferential Statistics, Bayesian Statistics, Statistical Learning
+
 ### Linear Algebra
+Scalars, Vectors, Matrices and Tensors, Multiplying Matrices and Vectors, Identity and Inverse Matrices, Linear Dependence and Span, Norms, Special Kinds of Matrices and Vectors, Eigendecomposition, Singular Value Decomposition (SVD), The Moore Penrose Pseudoinverse, The Trace Operator, The Determinant, Principal Component Analysis
+
 ### Multivariate Calculus
+Functions, Derivatives, Product Rule, Chain Rule, Integrals, Partial Derivatives, The Gradient, The Jacobian, The Hessian, Multivariate Chain Rule, Approximate Functions, Power Series, Linearisation, Multivariate Taylor
 
 ## Ch13. Machine Learning
 
