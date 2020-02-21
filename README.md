@@ -192,20 +192,26 @@ Entity, Arity, Latent Semantic Analysis, Topic Modelling
 
 
 ## Ch15. Deep Learning
+
 ### DL Concepts
 Artificial Neuron, Perceptron & MLP, Forward & Backpropogation, Fine Tuning Hyperparameters, Vanishing & Exploding Gradients, Reusing Pretrained Models, Faster Optimizers, Regularization
+
 ### DL Frameworks
+
 #### CNN
 Convolution Layer, Pooling Layer, CNN Architectures, Classification & Localization, Object Detection, Semantic Segmentation
+
 #### RNN & LSTM
 Recurrent Neurons, Memory Cells, Long Sequences, Short-Term Memory Problem, Stateful RNN, Masking, Bidirectional RNNs, Beam Search, Attendtion Mechanism
+
 #### Autoencoders
-Linear Encoders, Stacked Encoders, Convolutional Autoencoders, Recurrent Autoencoders, Denoising Autoencoders, Sparse Autoencoders, Variational Autoencoders
+Efficient Data Representations, Linear Autoencoder & PCA, Stacked Autoencoders, Convolutional Autoencoders, Recurrent Autoencoders, Denoising Autoencoders, Sparse Autoencoders, Variational Autoencoders
+
 #### GANs
-Generative models, Generative Matching Networks, Generative Adversarial Networks, Generator and Discriminator
+GANs, Deep Convolutional GANs, Progressive Growing of GANs, StyleGANs
 
 ## Ch16. Reinforcement Learning
-Introduction, MDP Planning, Policy Evaluation, Q-Learning, Function Approximation, Policy Search, Exploration/Exploitation, Batch Reinforcement Learning, Monte Carlo Tree Search	
+Introduction, Policy Search, Neural Network Policies, Evaluating Actions, Policy Gradients, Markov Decision Processes, Temporal Difference Learning, Q-Learning, Deep Q-Learning, Actor-Critic algorithms, Asynchronous Advantage Actor-Critic (A3C), Advantage Actor-Critic (A2C), Soft Actor-Critic (SAC), Proximal Policy Optimization (PPO), Curiosity-based exploration
 
 ## Ch17. Peripheral Concepts
 
