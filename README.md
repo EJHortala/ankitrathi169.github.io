@@ -296,10 +296,23 @@ Generative models, Generative Matching Networks, Generative Adversarial Networks
 ### Monte Carlo Tree Search	
 
 ## Ch17. Data Engineering
+### Introduction
+### DB, ETL & DWH
+### SQL & NoSQL DBs
+### Hadoop,Spark & Kafka
+### Operating Systems
+### Data Modeling & Architecture
 
 ## Ch18. Cloud Computing
+### Introduction
+### Types of Services
+### AWS Vs Azure Vs GCP
 
 ## Ch19. DevOps & MLOps
+### Introduction
+### Containers and Orchestration
+### Build Automation
+### Configuration Management
 
 # AI_Tools
 
