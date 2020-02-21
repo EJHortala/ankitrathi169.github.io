@@ -1,5 +1,5 @@
 # Artificial Intelligence
-## Self-Starter Handbook
+## Do-It-Yourself Handbook
 ### Build Your Own Roadmap
 #### 2nd edition
 ##### Revised & Extended
@@ -25,7 +25,9 @@ This is still work in progress, kindly provide your feedback on [ankitrathi.com]
 - How to lead an AI initiative in your organization?
 - How to stay up to date in this ever-evolving field?
 
-#### Proposed Framework:
+# DIY Framework --> AI Concepts --> AI Tools
+
+## DIY Framework
 
 ### [Navigate](#Navigate) --> [Build](#Build) --> [Launch](#Launch) --> [Excel](#Excel)
 
@@ -197,15 +199,15 @@ This is still work in progress, kindly provide your feedback on [ankitrathi.com]
 ### 11.6 Focus on Context
 ### 11.7 Conclusion
 
-# Appendix
+# AI Concepts
 
-## A. Mathematics for AI
+## Ch12. Mathematics for AI
 ### Probability
 ### Statistics
 ### Linear Algebra
 ### Multivariate Calculus
 
-## B. Machine Learning
+## Ch13. Machine Learning
 
 ### Machine Learning Concepts
 #### Gradient Descent
@@ -233,7 +235,7 @@ Insufficient Data, Nonrepresentative Data, Poor-Quality Data, Irrelevant Feature
 #### Associative Learning
 #### Anomaly Detection
 
-## C. Natural Language Processing
+## Ch14. Natural Language Processing
 ### NLP Concepts
 #### Lexical Processing
 Regex, Tokenization, Bag of Words, Tf-Idf, Canocalization, Stemming, Lemmatization
@@ -244,7 +246,7 @@ Entity, Arity, Latent Semantic Analysis, Topic Modelling
 ### NLP Techniques
 
 
-## D. Deep Learning
+## Ch15. Deep Learning
 ### DL Concepts
 Artificial Neuron, Perceptron & MLP, Forward & Backpropogation, Fine Tuning Hyperparameters, Vanishing & Exploding Gradients, Reusing Pretrained Models, Faster Optimizers, Regularization
 ### DL Frameworks
@@ -258,15 +260,17 @@ Linear Encoders, Stacked Encoders, Convolutional Autoencoders, Recurrent Autoenc
 Generative models, Generative Matching Networks, Generative Adversarial Networks, Generator and Discriminator
 
 
-## E. Data Engineering
+## Ch16. Data Engineering
 
-## F. Cloud Computing
+## Ch17. Cloud Computing
 
-## G. DevOps & MLOps
+## Ch18. DevOps & MLOps
 
-## H. AI Tool-Box 
-### SQL
-### Python
-### Tensorflow
-### Keras
-### R
+# AI Tools
+
+## Ch19. SQL
+## Ch20. Python
+## Ch21. Keras
+## Ch22. Tensorflow
+
+
