@@ -28,10 +28,10 @@ This is still work in progress, kindly provide your feedback on [ankitrathi.com]
 - [Ch16: Reinforcement Learning](https://ankitrathi169.github.io/#ch16-reinforcement-learning)
 - [Ch17: Peripheral Concepts](https://ankitrathi169.github.io/#ch17-peripheral-concepts)
 - [Ch18: SQL](https://ankitrathi169.github.io/#ch18-sql)
-- [Ch19. Python](https://ankitrathi169.github.io/#ch19-python)
-- [Ch20. Keras](https://ankitrathi169.github.io/#ch20-keras)
-- [Ch21. Tensorflow](https://ankitrathi169.github.io/#ch21-tensorflow)
-- [Ch22. Capstone Porjects](https://ankitrathi169.github.io/#ch22-capstone-porjects)
+- [Ch19: Python](https://ankitrathi169.github.io/#ch19-python)
+- [Ch20: Keras](https://ankitrathi169.github.io/#ch20-keras)
+- [Ch21: Tensorflow](https://ankitrathi169.github.io/#ch21-tensorflow)
+- [Ch22: Capstone Porjects](https://ankitrathi169.github.io/#ch22-capstone-porjects)
 
 
 #### Questions answered in this book:
