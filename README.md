@@ -27,7 +27,7 @@ This is still work in progress, kindly provide your feedback on [ankitrathi.com]
 
 # AI DIY Framework
 
-## [BYOR Framework](#BYOR Framework) --> AI Concepts --> AI Tools --> AI Capstone 
+## [BYOR Framework](#BYOR_Framework) --> AI Concepts --> AI Tools --> AI Capstone 
 
 ## BYOR Framework
 
@@ -84,7 +84,7 @@ This is still work in progress, kindly provide your feedback on [ankitrathi.com]
 #### Digit Recognizer
 #### Checkers Game
 
-# BYOR Framework
+# BYOR_Framework
 
 # Navigate
 
