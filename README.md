@@ -31,7 +31,7 @@ This is still work in progress, kindly provide your feedback on [ankitrathi.com]
 - [Ch19: Python](https://ankitrathi169.github.io/#ch19-python)
 - [Ch20: Keras](https://ankitrathi169.github.io/#ch20-keras)
 - [Ch21: Tensorflow](https://ankitrathi169.github.io/#ch21-tensorflow)
-- [Ch22: Capstone Porjects](https://ankitrathi169.github.io/#ch22-capstone-porjects)
+- [Ch22: Capstone Projects](https://ankitrathi169.github.io/#ch22-capstone-projects)
 
 
 #### Questions answered in this book:
@@ -230,7 +230,7 @@ Introduction, TF Basics, Exporting, Optimizers, Graphs
 
 # AI_Capstone
 
-## Ch22. Capstone Porjects
+## Ch22. Capstone Projects
 
 ### A. Titanic Prediction
 Define the Problem & KPIs, Collect & Understand the Data, Clean & Prepare the Data, Build & Evaluate Models, Deploy & Monitor KPIs
