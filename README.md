@@ -46,9 +46,6 @@ Literally everyone
 ## Ch1: Understanding the Big Picture
 
 ### 1.1 AI-DIY Framework 
-BYOR Framework, AI Concepts, AI Tools, AI Capstone
-
-### 1.2 BYOR Framework
 #### Navigate
 Navigating the landscape, End-to-end AI Project
 #### Build
@@ -57,6 +54,9 @@ Working on building blocks, Utilizing the resources
 Building your portfolio, Networking & landing the job
 #### Excel
 Switching to an AI Role, Leading AI Initiatives, Making your career future-proof
+
+### 1.2 Build (extended)
+BYOR Framework, AI Concepts, AI Tools, AI Capstone
 
 ### 1.3 AI Concepts
 #### Pre-requisites
@@ -229,8 +229,18 @@ Generative models, Generative Matching Networks, Generative Adversarial Networks
 ### skLearn
 
 ## Ch21. Keras
+### Introduction
+### Modules
+### Layers
+### Models
+### Applications
 
 ## Ch22. Tensorflow
+### Introduction
+### TF Basics
+### Exporting
+### Optimizers
+### Graphs
 
 # AI_Capstone
 
