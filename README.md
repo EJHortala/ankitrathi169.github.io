@@ -174,79 +174,48 @@ Linear Encoders, Stacked Encoders, Convolutional Autoencoders, Recurrent Autoenc
 Generative models, Generative Matching Networks, Generative Adversarial Networks, Generator and Discriminator
 
 ## Ch16. Reinforcement Learning
-### Introduction
-### MDP Planning
-### Policy Evaluation
-### Q-Learning
-### Function Approximation
-### Policy Search
-### Exploration/Exploitation
-### Batch Reinforcement Learning
-### Monte Carlo Tree Search	
+Introduction, MDP Planning, Policy Evaluation, Q-Learning, Function Approximation, Policy Search, Exploration/Exploitation, Batch Reinforcement Learning, Monte Carlo Tree Search	
 
-## Ch17. Data Engineering
-### Introduction
-### DB, ETL & DWH
-### SQL & NoSQL DBs
-### Hadoop,Spark & Kafka
-### Operating Systems
-### Data Modeling & Architecture
+## Ch17. Peripheral Concepts
 
-## Ch18. Cloud Computing
-### Introduction
-### Types of Services
-### AWS Vs Azure Vs GCP
+### Data Engineering
+Introduction, DB, ETL & DWH, SQL & NoSQL DBs, Hadoop,Spark & Kafka, Operating Systems, Data Modeling & Architecture
 
-## Ch19. DevOps & MLOps
-### Introduction
-### Containers and Orchestration
-### Build Automation
-### Configuration Management
+### Cloud Computing
+Introduction, Types of Cloud Computing, Types of Services, AWS Vs Azure Vs GCP
+
+### DevOps & MLOps
+Introduction, Containers and Orchestration, Build Automation, Configuration Management, Tools
 
 # AI_Tools
 
-## Ch20. SQL
-### Introduction
-### RDBMS Concepts
-### DDL, DML & DCL 
-### Basic SQL
-### Advanced SQL
+## Ch18. SQL
+Introduction, RDBMS Concepts, DDL, DML & DCL, Basic SQL, Advanced SQL
 
-## Ch21. Python
-### Introduction
-### Language Basics
-### NumPy
-### SciPy
-### Pandas
-### MatPlotLib
-### skLearn
+## Ch19. Python
+Introduction, Language Basics, NumPy, SciPy, Pandas, MatPlotLib, skLearn
 
-## Ch21. Keras
-### Introduction
-### Modules
-### Layers
-### Models
-### Applications
+## Ch20. Keras
+Introduction, Modules, Layers, Models, Applications
 
-## Ch22. Tensorflow
-### Introduction
-### TF Basics
-### Exporting
-### Optimizers
-### Graphs
+## Ch21. Tensorflow
+Introduction, TF Basics, Exporting, Optimizers, Graphs
+
 
 # AI_Capstone
 
-## A. Titanic Prediction
+## Ch22. Capstone Porjects
+
+### A. Titanic Prediction
 Define the Problem & KPIs, Collect & Understand the Data, Clean & Prepare the Data, Build & Evaluate Models, Deploy & Monitor KPIs
 
-## B. Housing Prices
+### B. Housing Prices
 Define the Problem & KPIs, Collect & Understand the Data, Clean & Prepare the Data, Build & Evaluate Models, Deploy & Monitor KPIs
 
-## C. IMDB Reviews
+### C. IMDB Reviews
 Define the Problem & KPIs, Collect & Understand the Data, Clean & Prepare the Data, Build & Evaluate Models, Deploy & Monitor KPIs
 
-## D. Digit Recognizer
+### D. Digit Recognizer
 Define the Problem & KPIs, Collect & Understand the Data, Clean & Prepare the Data, Build & Evaluate Models, Deploy & Monitor KPIs
 
-## E. Checkers Game
+### E. Checkers Game
