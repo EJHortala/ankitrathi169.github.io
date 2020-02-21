@@ -285,6 +285,15 @@ Linear Encoders, Stacked Encoders, Convolutional Autoencoders, Recurrent Autoenc
 Generative models, Generative Matching Networks, Generative Adversarial Networks, Generator and Discriminator
 
 ## Ch16. Reinforcement Learning
+### Introduction
+### MDP Planning
+### Policy Evaluation
+### Q-Learning
+### Function Approximation
+### Policy Search
+### Exploration/Exploitation
+### Batch Reinforcement Learning
+### Monte Carlo Tree Search	
 
 ## Ch17. Data Engineering
 
