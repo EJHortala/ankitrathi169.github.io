@@ -6,17 +6,17 @@
 
 This is still work in progress, kindly provide your feedback on [ankitrathi.com](http://ankitrathi.com/)
 
-# AI DIY Framework
+## AI DIY Framework
 
-## [Navigate](#Navigate) --> [Build](#Build) --> [Launch](#Launch) --> [Excel](#Excel)
+### [Navigate](#Navigate) --> [Build](#Build) --> [Launch](#Launch) --> [Excel](#Excel)
 
-## Build (extended)
+### Build (extended)
 
-### [AI Concepts](#AI_Concepts) --> [AI Tools](#AI_Tools) --> [AI Capstone](#AI_Capstone)
+#### [AI Concepts](#AI_Concepts) --> [AI Tools](#AI_Tools) --> [AI Capstone](#AI_Capstone)
 
 ![alt text](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Resources/AI-DIY-Cover.jpg)
 
-### Table of Contents
+## Table of Contents
 - [Ch0: About the Handbook](https://ankitrathi169.github.io/#ch0-about-the-handbook)
 - [Ch1: Understanding the Big Picture](https://ankitrathi169.github.io/#ch1-understanding-the-big-picture)
 #### Navigate
