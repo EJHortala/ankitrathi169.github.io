@@ -283,6 +283,6 @@ Generative models, Generative Matching Networks, Generative Adversarial Networks
 ## B. Housing Prices
 ## C. IMDB Reviews
 ## D. Digit Recognizer
-## E. Checkers
+## E. Checkers Game
 
 
