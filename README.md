@@ -75,8 +75,6 @@ Hadoop, Spark, AWS, Azure, Kubernetes, Jenkins, Tableau, PowerBI
 ### 1.5 AI Capstone
 Titanic Prediction, Housing Prices, IMDB Reviews, Digit Recognizer, Checkers Game
 
-# BYOR_Framework
-
 # Navigate
 
 ## [Ch2: Navigating the Landscape](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Navigating_the_Landscape.md)
