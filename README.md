@@ -46,14 +46,7 @@ Literally everyone
 ## Ch1: Understanding the Big Picture
 
 ### 1.1 AI-DIY Framework 
-#### Navigate
-Navigating the landscape, End-to-end AI Project
-#### Build
-Working on building blocks, Utilizing the resources
-#### Launch
-Building your portfolio, Networking & landing the job
-#### Excel
-Switching to an AI Role, Leading AI Initiatives, Making your career future-proof
+Navigate (Navigating the landscape, End-to-end AI Project), Build (Working on building blocks, Utilizing the resources), Launch (Building your portfolio, Networking & landing the job), Excel (Switching to an AI Role, Leading AI Initiatives, Making your career future-proof)
 
 ### 1.2 Build (extended)
 BYOR Framework, AI Concepts, AI Tools, AI Capstone
