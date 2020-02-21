@@ -31,7 +31,7 @@ This is still work in progress, kindly provide your feedback on [ankitrathi.com]
 
 ## BYOR Framework
 
-### [Navigate](#Navigate) --> [Build](#Build) --> [Launch](#Launch) --> [Excel](#Excel)
+### [Navigate](##Navigate) --> [Build](#Build) --> [Launch](#Launch) --> [Excel](#Excel)
 
 
 ## Ch0: About the Handbook
@@ -84,7 +84,9 @@ This is still work in progress, kindly provide your feedback on [ankitrathi.com]
 #### Digit Recognizer
 #### Checkers Game
 
-# Navigate
+# BYOR Framework
+
+## Navigate
 
 ## [Ch2: Navigating the Landscape](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Navigating_the_Landscape.md)
 
