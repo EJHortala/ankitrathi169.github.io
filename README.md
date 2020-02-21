@@ -27,11 +27,12 @@ This is still work in progress, kindly provide your feedback on [ankitrathi.com]
 
 # AI DIY Framework
 
-## [BYOR Framework](#BYOR_Framework) --> [AI Concepts](#AI_Concepts) --> [AI Tools](#AI_Tools) --> [AI Capstone](#AI_Capstone)
+## [Navigate](#Navigate) --> [Build](#Build) --> [Launch](#Launch) --> [Excel](#Excel)
 
-## BYOR Framework
+## Build (extended)
 
-### [Navigate](#Navigate) --> [Build](#Build) --> [Launch](#Launch) --> [Excel](#Excel)
+### [AI Concepts](#AI_Concepts) --> [AI Tools](#AI_Tools) --> [AI Capstone](#AI_Capstone)
+
 
 
 ## Ch0: About the Handbook
@@ -152,30 +153,10 @@ Functions, Derivatives, Product Rule, Chain Rule, Integrals, Partial Derivatives
 ## Ch13. Machine Learning
 
 ### Machine Learning Concepts
-#### Gradient Descent
-Batch Gradient Descent, Stochastic Gradient Descent, Mini-batch Gradient Descent
-#### Performance Measures
-#### Error Analysis
-#### Computational Complexity
-#### Types of Machine Learning
-Supervised & Unsupervised Learning, Batch & Online Learning, Instance-based Vs Model-based Learning
-#### Ensemble Learning
-Bagging, Boosting, Stacking
-#### Challenges in Machine Learning
-Insufficient Data, Nonrepresentative Data, Poor-Quality Data, Irrelevant Features, Overfitting & Underfitting
+Gradient Descent(Batch, Stochastic & Mini-batch), Performance Measures, Error Analysis, Computational Complexity, Types of Machine Learning (Supervised & Unsupervised, Batch & Online, Instance-based Vs Model-based), Ensemble Learning (Bagging, Boosting, Stacking), Challenges in Machine Learning (Insufficient Data, Nonrepresentative Data, Poor-Quality Data, Irrelevant Features, Overfitting & Underfitting)
 
 ### Machine Learning Algorithms
-#### Linear Regression
-#### Logistic Regression
-#### kNN Algorithm
-#### Naive Bayes
-#### Decision Trees & Random Forests
-#### Support Vector Machines
-#### Neural Networks
-#### Dimensionality Reduction
-#### kMeans Algorithm
-#### Associative Learning
-#### Anomaly Detection
+Linear Regression, Logistic Regression, kNN Algorithm, Naive Bayes, Decision Trees & Random Forests, Support Vector Machines, Neural Networks, Dimensionality Reduction, kMeans Algorithm, Associative Learning, Anomaly Detection
 
 ## Ch14. Natural Language Processing
 ### NLP Concepts
@@ -256,31 +237,15 @@ Generative models, Generative Matching Networks, Generative Adversarial Networks
 # AI_Capstone
 
 ## A. Titanic Prediction
-#### Define the Problem & KPIs
-#### Collect & Understand the Data
-#### Clean & Prepare the Data
-#### Build & Evaluate Models
-#### Deploy & Monitor KPIs
+Define the Problem & KPIs, Collect & Understand the Data, Clean & Prepare the Data, Build & Evaluate Models, Deploy & Monitor KPIs
 
 ## B. Housing Prices
-#### Define the Problem & KPIs
-#### Collect & Understand the Data
-#### Clean & Prepare the Data
-#### Build & Evaluate Models
-#### Deploy & Monitor KPIs
+Define the Problem & KPIs, Collect & Understand the Data, Clean & Prepare the Data, Build & Evaluate Models, Deploy & Monitor KPIs
 
 ## C. IMDB Reviews
-#### Define the Problem & KPIs
-#### Collect & Understand the Data
-#### Clean & Prepare the Data
-#### Build & Evaluate Models
-#### Deploy & Monitor KPIs
+Define the Problem & KPIs, Collect & Understand the Data, Clean & Prepare the Data, Build & Evaluate Models, Deploy & Monitor KPIs
 
 ## D. Digit Recognizer
-#### Define the Problem & KPIs
-#### Collect & Understand the Data
-#### Clean & Prepare the Data
-#### Build & Evaluate Models
-#### Deploy & Monitor KPIs
+Define the Problem & KPIs, Collect & Understand the Data, Clean & Prepare the Data, Build & Evaluate Models, Deploy & Monitor KPIs
 
 ## E. Checkers Game
