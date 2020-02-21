@@ -43,25 +43,46 @@ This is still work in progress, kindly provide your feedback on [ankitrathi.com]
 #### Money minting courses
 #### Beginners' FAQs
 
-### 0.2 What this Handbook covers?
-#### Not a typical concept or hands-on book
-#### Focuses on effective utilization of existing resources
-#### Equivalent to a guide
-
-### 0.3 Who this handbook is for?
+### 0.2 Who this handbook is for?
 #### Literally everyone
 
 ## Ch1: Understanding the Big Picture
 
-### 1.1 Navigating the landscape
-### 1.2 End-to-end AI Project
-### 1.3 Working on building blocks
-### 1.4 Utilizing the resources
-### 1.5 Building your portfolio
-### 1.6 Networking & landing the job
-### 1.7 Switching to an AI Role
-### 1.8 Leading AI Initiatives
-### 1.9 Making your career future-proof
+### 1.1 AI-DIY Framework 
+#### BYOR Framework
+#### AI Concepts
+#### AI Tools
+#### AI Capstone
+
+### 1.2 BYOR Framework
+#### Navigating the landscape
+#### End-to-end AI Project
+#### Working on building blocks
+#### Utilizing the resources
+#### Building your portfolio
+#### Networking & landing the job
+#### Switching to an AI Role
+#### Leading AI Initiatives
+#### Making your career future-proof
+
+### 1.3 AI Concepts
+#### Machine Learning
+#### Natural Language Processing
+#### Deep Learning
+#### Reinforcement Learning
+
+### 1.4 AI Tools
+#### SQL
+#### Python
+#### Keras
+#### Tensorflow
+
+### 1.5 AI Capstone
+#### Titanic Prediction
+#### Housing Prices
+#### IMDB Reviews
+#### Digit Recognizer
+#### Checkers Game
 
 # Navigate
 
