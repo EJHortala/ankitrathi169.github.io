@@ -8,6 +8,9 @@ This is still work in progress, kindly provide your feedback on [ankitrathi.com]
 
 ![alt text](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Resources/AI-DIY-Cover.jpg)
 
+### Table of Content
+[Ch1: Understanding the Big Picture](#ch1-understanding-the-big-picture)
+
 #### Questions answered in this book:
 
 - What is AI and why is it important?
