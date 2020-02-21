@@ -286,7 +286,6 @@ Generative models, Generative Matching Networks, Generative Adversarial Networks
 
 ## Ch16. Reinforcement Learning
 
-
 ## Ch17. Data Engineering
 
 ## Ch18. Cloud Computing
@@ -296,6 +295,7 @@ Generative models, Generative Matching Networks, Generative Adversarial Networks
 # AI_Tools
 
 ## Ch20. SQL
+
 ## Ch21. Python
 ## Ch21. Keras
 ## Ch22. Tensorflow
@@ -303,9 +303,38 @@ Generative models, Generative Matching Networks, Generative Adversarial Networks
 # AI_Capstone
 
 ## A. Titanic Prediction
+#### Define the Problem & KPIs
+#### Collect & Understand the Data
+#### Clean & Prepare the Data
+#### Build & Evaluate Models
+#### Deploy & Monitor KPIs
+
 ## B. Housing Prices
+#### Define the Problem & KPIs
+#### Collect & Understand the Data
+#### Clean & Prepare the Data
+#### Build & Evaluate Models
+#### Deploy & Monitor KPIs
+
 ## C. IMDB Reviews
+#### Define the Problem & KPIs
+#### Collect & Understand the Data
+#### Clean & Prepare the Data
+#### Build & Evaluate Models
+#### Deploy & Monitor KPIs
+
 ## D. Digit Recognizer
+#### Define the Problem & KPIs
+#### Collect & Understand the Data
+#### Clean & Prepare the Data
+#### Build & Evaluate Models
+#### Deploy & Monitor KPIs
+
 ## E. Checkers Game
+#### Define the Problem & KPIs
+#### Collect & Understand the Data
+#### Clean & Prepare the Data
+#### Build & Evaluate Models
+#### Deploy & Monitor KPIs
 
 
