@@ -9,10 +9,10 @@ This is still work in progress, kindly provide your feedback on [ankitrathi.com]
 ![alt text](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Resources/AI-DIY-Cover.jpg)
 
 ### Table of Contents
-[Ch0: About the Handbook](https://github.com/ankitrathi169/ankitrathi169.github.io#ch0-about-the-handbook)
-[Ch1: Understanding the Big Picture](https://github.com/ankitrathi169/ankitrathi169.github.io#ch1-understanding-the-big-picture)
-[Ch2: Navigating the Landscape](https://github.com/ankitrathi169/ankitrathi169.github.io#ch2-navigating-the-landscape)
-[Ch1: Understanding the Big Picture](#ch1-understanding-the-big-picture)
+- [Ch0: About the Handbook](https://github.com/ankitrathi169/ankitrathi169.github.io#ch0-about-the-handbook)
+- [Ch1: Understanding the Big Picture](https://github.com/ankitrathi169/ankitrathi169.github.io#ch1-understanding-the-big-picture)
+- [Ch2: Navigating the Landscape](https://github.com/ankitrathi169/ankitrathi169.github.io#ch2-navigating-the-landscape)
+- [Ch1: Understanding the Big Picture](#ch1-understanding-the-big-picture)
 [Ch1: Understanding the Big Picture](#ch1-understanding-the-big-picture)
 [Ch1: Understanding the Big Picture](#ch1-understanding-the-big-picture)
 [Ch1: Understanding the Big Picture](#ch1-understanding-the-big-picture)
