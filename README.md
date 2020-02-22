@@ -33,20 +33,22 @@ This is still work in progress, kindly provide your feedback on [ankitrathi.com]
 - [Ch9: Leading AI Initiatives](https://ankitrathi169.github.io/#ch9-leading-ai-initiatives)
 - [Ch10: Making Your Career Future-Proof](https://ankitrathi169.github.io/#ch10-making-your-career-future-proof)
 - [Ch11: Putting it All Together](https://ankitrathi169.github.io/#ch11-putting-it-all-together)
+
+
 #### AI_Concepts
-- [Ch12: Mathematics for AI](https://ankitrathi169.github.io/#ch12-mathematics-for-ai)
-- [Ch13: Machine Learning](https://ankitrathi169.github.io/#ch13-machine-learning)
-- [Ch14: Natural Language Processing](https://ankitrathi169.github.io/#ch14-natural-language-processing)
-- [Ch15: Deep Learning](https://ankitrathi169.github.io/#ch15-deep-learning)
-- [Ch16: Reinforcement Learning](https://ankitrathi169.github.io/#ch16-reinforcement-learning)
-- [Ch17: Peripheral Concepts](https://ankitrathi169.github.io/#ch17-peripheral-concepts)
+- [A: Mathematics for AI](https://ankitrathi169.github.io/#a-mathematics-for-ai)
+- [B: Machine Learning](https://ankitrathi169.github.io/#b-machine-learning)
+- [C: Natural Language Processing](https://ankitrathi169.github.io/#c-natural-language-processing)
+- [D: Deep Learning](https://ankitrathi169.github.io/#d-deep-learning)
+- [E: Reinforcement Learning](https://ankitrathi169.github.io/#e-reinforcement-learning)
+- [F: Peripheral Concepts](https://ankitrathi169.github.io/#f-peripheral-concepts)
 #### AI_Tools
-- [Ch18: SQL](https://ankitrathi169.github.io/#ch18-sql)
-- [Ch19: Python](https://ankitrathi169.github.io/#ch19-python)
-- [Ch20: Keras](https://ankitrathi169.github.io/#ch20-keras)
-- [Ch21: Tensorflow](https://ankitrathi169.github.io/#ch21-tensorflow)
+- [G: SQL](https://ankitrathi169.github.io/#g-sql)
+- [H: Python](https://ankitrathi169.github.io/#h-python)
+- [I: Keras](https://ankitrathi169.github.io/#i-keras)
+- [J: Tensorflow](https://ankitrathi169.github.io/#j-tensorflow)
 #### AI_Capstone
-- [Ch22: Capstone Projects](https://ankitrathi169.github.io/#ch22-capstone-projects)
+- [K: Capstone Projects](https://ankitrathi169.github.io/#k-capstone-projects)
 
 
 #### Questions answered in this book:
@@ -159,7 +161,7 @@ Master the Basics, Avoid Being a Junkie, Learn to Solve, Just Enough Approach, H
 
 # AI_Concepts
 
-## Ch12. Mathematics for AI
+## A. Mathematics for AI
 ### Probability
 Introduction, Conditional Probability
 
@@ -172,7 +174,7 @@ Scalars, Vectors, Matrices and Tensors, Multiplying Matrices and Vectors, Identi
 ### Multivariate Calculus
 Functions, Derivatives, Product Rule, Chain Rule, Integrals, Partial Derivatives, The Gradient, The Jacobian, The Hessian, Multivariate Chain Rule, Approximate Functions, Power Series, Linearisation, Multivariate Taylor
 
-## Ch13. Machine Learning
+## B. Machine Learning
 
 ### Machine Learning Concepts
 Gradient Descent(Batch, Stochastic & Mini-batch), Performance Measures, Error Analysis, Computational Complexity, Types of Machine Learning (Supervised & Unsupervised, Batch & Online, Instance-based Vs Model-based), Ensemble Learning (Bagging, Boosting, Stacking), Challenges in Machine Learning (Insufficient Data, Nonrepresentative Data, Poor-Quality Data, Irrelevant Features, Overfitting & Underfitting)
@@ -180,7 +182,7 @@ Gradient Descent(Batch, Stochastic & Mini-batch), Performance Measures, Error An
 ### Machine Learning Algorithms
 Linear Regression, Logistic Regression, kNN Algorithm, Naive Bayes, Decision Trees & Random Forests, Support Vector Machines, Neural Networks, Dimensionality Reduction, kMeans Algorithm, Associative Learning, Anomaly Detection
 
-## Ch14. Natural Language Processing
+## C. Natural Language Processing
 ### NLP Concepts
 #### Lexical Processing
 Regex, Tokenization, Bag of Words, Tf-Idf, Canocalization, Stemming, Lemmatization
@@ -191,7 +193,7 @@ Entity, Arity, Latent Semantic Analysis, Topic Modelling
 ### NLP Techniques
 
 
-## Ch15. Deep Learning
+## D. Deep Learning
 
 ### DL Concepts
 Artificial Neuron, Perceptron & MLP, Forward & Backpropogation, Fine Tuning Hyperparameters, Vanishing & Exploding Gradients, Reusing Pretrained Models, Faster Optimizers, Regularization
@@ -210,10 +212,10 @@ Efficient Data Representations, Linear Autoencoder & PCA, Stacked Autoencoders, 
 #### GANs
 GANs, Deep Convolutional GANs, Progressive Growing of GANs, StyleGANs
 
-## [Ch16. Reinforcement Learning](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Ch16_Reinforcement_Learning.md)
+## E. Reinforcement Learning
 Introduction, Policy Search, Neural Network Policies, Evaluating Actions, Policy Gradients, Markov Decision Processes, Temporal Difference Learning, Q-Learning, Deep Q-Learning, Actor-Critic algorithms, Asynchronous Advantage Actor-Critic (A3C), Advantage Actor-Critic (A2C), Soft Actor-Critic (SAC), Proximal Policy Optimization (PPO), Curiosity-based exploration
 
-## Ch17. Peripheral Concepts
+## F. Peripheral Concepts
 
 ### Data Engineering
 Introduction, DB, ETL & DWH, SQL & NoSQL DBs, Hadoop,Spark & Kafka, Operating Systems, Data Modeling & Architecture
@@ -226,36 +228,36 @@ Introduction, Containers and Orchestration, Build Automation, Configuration Mana
 
 # AI_Tools
 
-## Ch18. SQL
+## G. SQL
 Introduction, RDBMS Concepts, DDL, DML & DCL, Basic SQL, Advanced SQL
 
-## Ch19. Python
+## H. Python
 Introduction, Language Basics, NumPy, SciPy, Pandas, MatPlotLib, skLearn
 
-## Ch20. Keras
+## I. Keras
 Introduction, Modules, Layers, Models, Applications
 
-## Ch21. Tensorflow
+## J. Tensorflow
 Introduction, TF Basics, Exporting, Optimizers, Graphs
 
 
 # AI_Capstone
 
-## Ch22. Capstone Projects
+## K. Capstone Projects
 
-### A. Titanic Prediction
+### I. Titanic Prediction
 Define the Problem & KPIs, Collect & Understand the Data, Clean & Prepare the Data, Build & Evaluate Models, Deploy & Monitor KPIs
 
-### B. Housing Prices
+### II. Housing Prices
 Define the Problem & KPIs, Collect & Understand the Data, Clean & Prepare the Data, Build & Evaluate Models, Deploy & Monitor KPIs
 
-### C. IMDB Reviews
+### III. IMDB Reviews
 Define the Problem & KPIs, Collect & Understand the Data, Clean & Prepare the Data, Build & Evaluate Models, Deploy & Monitor KPIs
 
-### D. Digit Recognizer
+### IV. Digit Recognizer
 Define the Problem & KPIs, Collect & Understand the Data, Clean & Prepare the Data, Build & Evaluate Models, Deploy & Monitor KPIs
 
-### E. Checkers Game
+### V. Checkers Game
 
 
 # Resources & References
