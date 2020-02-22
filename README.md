@@ -278,5 +278,8 @@ Define the Problem & KPIs, Collect & Understand the Data, Clean & Prepare the Da
 
 - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems (2nd Edition) by Aurélien Géron](https://www.amazon.in/Hands-Machine-Learning-Scikit-Learn-TensorFlow-ebook/dp/B07XGF2G87/)
 
-- [CS109a: Introduction to Data Science by Pavlos Protopapas, Kevin A. Rader, and Chris Tanner](https://harvard-iacs.github.io/2019-CS109A/)
+- [CS109A: Introduction to Data Science by Pavlos Protopapas, Kevin A. Rader, and Chris Tanner](https://harvard-iacs.github.io/2019-CS109A/)
+
 - [CS 109B: Advanced Topics in Data Science by Pavlos Protopapas and Mark Glickman](https://harvard-iacs.github.io/2019-CS109B/)
+
+- [Interpretable Machine Learning: A Guide for Making Black Box Models Explainable by Christoph Molnar](https://christophm.github.io/interpretable-ml-book/)
