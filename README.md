@@ -256,3 +256,27 @@ Define the Problem & KPIs, Collect & Understand the Data, Clean & Prepare the Da
 Define the Problem & KPIs, Collect & Understand the Data, Clean & Prepare the Data, Build & Evaluate Models, Deploy & Monitor KPIs
 
 ### E. Checkers Game
+
+
+# Resources & References
+
+- [AI For Everyone by Andrew Ng](https://www.deeplearning.ai/ai-for-everyone/)
+
+- [Faster Data Science Education by Kaggle](https://www.kaggle.com/learn/overview)
+
+- [Machine Learning Crash Course by Google](https://developers.google.com/machine-learning/crash-course)
+
+- [Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning)
+
+- [Deep Learning by Andrew Ng](https://www.coursera.org/specializations/deep-learning)
+
+- [Learn with Google AI](https://ai.google/education/)
+
+- [Sebastian Raschka Lecture Slides](https://sebastianraschka.com/resources.html)
+
+- [Jonathan Hui Medium Articles](https://sebastianraschka.com/resources.html)
+
+- [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems (2nd Edition) by Aurélien Géron](https://www.amazon.in/Hands-Machine-Learning-Scikit-Learn-TensorFlow-ebook/dp/B07XGF2G87/)
+
+- [CS109a: Introduction to Data Science by Pavlos Protopapas, Kevin A. Rader, and Chris Tanner](https://harvard-iacs.github.io/2019-CS109A/)
+- [CS 109B: Advanced Topics in Data Science by Pavlos Protopapas and Mark Glickman](https://harvard-iacs.github.io/2019-CS109B/)
