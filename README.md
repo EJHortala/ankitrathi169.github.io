@@ -47,12 +47,11 @@ This is still work in progress, kindly provide your feedback on [ankitrathi.com]
 - [E: Reinforcement Learning](https://ankitrathi169.github.io/#e-reinforcement-learning)
 - [F: Peripheral Concepts](https://ankitrathi169.github.io/#f-peripheral-concepts)
 #### AI_Tools
-- [G: SQL](https://ankitrathi169.github.io/#g-sql)
-- [H: Python](https://ankitrathi169.github.io/#h-python)
-- [I: Keras](https://ankitrathi169.github.io/#i-keras)
-- [J: Tensorflow](https://ankitrathi169.github.io/#j-tensorflow)
+- [G: Core Tools](https://ankitrathi169.github.io/#g-core-tools)
+- [H: Peripheral Tools](https://ankitrathi169.github.io/#h-peripheral-tools)
+
 #### AI_Capstone
-- [K: Capstone Projects](https://ankitrathi169.github.io/#k-capstone-projects)
+- [I: Capstone Projects](https://ankitrathi169.github.io/#k-capstone-projects)
 
 
 #### Questions answered in this book:
@@ -230,38 +229,49 @@ Introduction, Types of Cloud Computing, Types of Services, AWS Vs Azure Vs GCP
 ### DevOps & MLOps
 Introduction, Containers and Orchestration, Build Automation, Configuration Management, Tools
 
+### Explainable AI
+
+### Enterprise AI
+
 # AI_Tools
 
-## G. SQL
+## G. Core Tools
+
+### SQL
 Introduction, RDBMS Concepts, DDL, DML & DCL, Basic SQL, Advanced SQL
 
-## H. Python
+### Python
 Introduction, Language Basics, NumPy, SciPy, Pandas, MatPlotLib, skLearn
 
-## I. Keras
+### Keras
 Introduction, Modules, Layers, Models, Applications
 
-## J. Tensorflow
+### Tensorflow
 Introduction, TF Basics, Exporting, Optimizers, Graphs
 
+## H. Peripheral Tools
+
+### Big Data Tools
+
+### Visualization Tools
 
 # AI_Capstone
 
-## K. Capstone Projects
+## I. Capstone Projects
 
-### I. Titanic Prediction
+### 1. Titanic Prediction
 Define the Problem & KPIs, Collect & Understand the Data, Clean & Prepare the Data, Build & Evaluate Models, Deploy & Monitor KPIs
 
-### II. Housing Prices
+### 2. Housing Prices
 Define the Problem & KPIs, Collect & Understand the Data, Clean & Prepare the Data, Build & Evaluate Models, Deploy & Monitor KPIs
 
-### III. IMDB Reviews
+### 3. IMDB Reviews
 Define the Problem & KPIs, Collect & Understand the Data, Clean & Prepare the Data, Build & Evaluate Models, Deploy & Monitor KPIs
 
-### IV. Digit Recognizer
+### 4. Digit Recognizer
 Define the Problem & KPIs, Collect & Understand the Data, Clean & Prepare the Data, Build & Evaluate Models, Deploy & Monitor KPIs
 
-### V. Checkers Game
+### 5. Checkers Game
 
 
 # Resources & References
