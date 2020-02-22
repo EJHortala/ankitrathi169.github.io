@@ -19,6 +19,9 @@ This is still work in progress, kindly provide your feedback on [ankitrathi.com]
 ## Table of Contents
 - [Ch0: About the Handbook](https://ankitrathi169.github.io/#ch0-about-the-handbook)
 - [Ch1: Understanding the Big Picture](https://ankitrathi169.github.io/#ch1-understanding-the-big-picture)
+
+### PART I
+
 #### Navigate
 - [Ch2: Navigating the Landscape](https://ankitrathi169.github.io/#ch2-navigating-the-landscape)
 - [Ch3: Real-World AI Projects](https://ankitrathi169.github.io/#ch3-real-world-ai-projects)
@@ -34,6 +37,7 @@ This is still work in progress, kindly provide your feedback on [ankitrathi.com]
 - [Ch10: Making Your Career Future-Proof](https://ankitrathi169.github.io/#ch10-making-your-career-future-proof)
 - [Ch11: Putting it All Together](https://ankitrathi169.github.io/#ch11-putting-it-all-together)
 
+### PART II
 
 #### AI_Concepts
 - [A: Mathematics for AI](https://ankitrathi169.github.io/#a-mathematics-for-ai)
