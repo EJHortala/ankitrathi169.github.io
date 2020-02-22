@@ -51,7 +51,7 @@ This is still work in progress, kindly provide your feedback on [ankitrathi.com]
 - [H: Peripheral Tools](https://ankitrathi169.github.io/#h-peripheral-tools)
 
 #### AI_Capstone
-- [I: Capstone Projects](https://ankitrathi169.github.io/#k-capstone-projects)
+- [I: Capstone Projects](https://ankitrathi169.github.io/#i-capstone-projects)
 
 
 #### Questions answered in this book:
