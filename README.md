@@ -96,8 +96,10 @@ Machine Learning, Natural Language Processing, Deep Learning, Reinforcement Lear
 Data Engineering, Cloud Computing, Solution Architecture, DevOps, Enterprise AI, Explainable AI
 
 ### 1.4 AI Tools
+
 #### Core Tools
 SQL, Python, Keras, Tensorflow
+
 #### Peripheral Tools
 Hadoop, Spark, AWS, Azure, Kubernetes, Jenkins, Tableau, PowerBI
 
@@ -254,6 +256,8 @@ Introduction, TF Basics, Exporting, Optimizers, Graphs
 ### Big Data Tools
 
 ### Visualization Tools
+
+### DevOps Tools
 
 # AI_Capstone
 
