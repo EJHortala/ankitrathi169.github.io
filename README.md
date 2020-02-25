@@ -168,7 +168,7 @@ Master the Basics, Avoid Being a Junkie, Learn to Solve, Just Enough Approach, H
 
 ## A. Mathematics for AI
 ### Probability
-Introduction, Conditional Probability
+Introduction, Conditional Probability, Random Variables, Probability Distributions
 
 ### Statistics
 Introduction, Descriptive Statistics, Inferential Statistics, Bayesian Statistics, Statistical Learning
