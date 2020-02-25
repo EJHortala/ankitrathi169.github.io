@@ -223,7 +223,7 @@ Introduction, Policy Search, Neural Network Policies, Evaluating Actions, Policy
 ## F. Peripheral Concepts
 
 ### Data Engineering
-Introduction, DB, ETL & DWH, SQL & NoSQL DBs, Hadoop,Spark & Kafka, Operating Systems, Data Modeling & Architecture
+Introduction, DB, ETL & DWH, SQL & NoSQL DBs, Hadoop, Spark & Kafka, Operating Systems, Data Modeling & Architecture
 
 ### Cloud Computing
 Introduction, Types of Cloud Computing, Types of Services, AWS Vs Azure Vs GCP
