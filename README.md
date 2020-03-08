@@ -108,7 +108,7 @@ Titanic Prediction, Housing Prices, IMDB Reviews, Digit Recognizer, Checkers Gam
 
 # Navigate
 
-## [Ch2: Navigating the Landscape](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Navigating_the_Landscape.md)
+## Ch2: Navigating the Landscape
 
 Why is AI Important?, What is AI?, Brief History of AI, Different Approaches/Methods, Relation with Other Fields, Academics Vs Industry, Limitations of AI, Disadvantages of AI, Current State of AI
 
