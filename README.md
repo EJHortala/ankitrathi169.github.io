@@ -10,13 +10,20 @@ This is still work in progress, kindly provide your feedback on [ankitrathi.com]
 
 ### Ch 00: About The Book
 ### Ch 01: Introduction
+## Part I - Foundation
 ### Ch 02: Data & Systems
 ### Ch 03: Data & Analytics/ML/AI
 ### Ch 04: Data & Cloud
 ### Ch 05: Data & DevOps
 ### Ch 06: Data & Governance
-### Ch 07: Building Data Platform
-### Ch 08: Conclusion
+## Part II - Application
+### Ch 07: Define Data Governance
+### Ch 08: Architect Data Platform
+### Ch 09: Identify Data & Use Cases
+### Ch 10: Select Right Components
+### Ch 11: Develop Applications
+### Ch 12: Maintain Applications
+### Ch 13: Conclusion
 
 
 # Ch 00: About The Book
@@ -33,26 +40,26 @@ This is still work in progress, kindly provide your feedback on [ankitrathi.com]
 - Data & Governance
 
 # Ch 02: Data & Systems
-- Data (https://en.wikipedia.org/wiki/Data)
-- Databases (https://en.wikipedia.org/wiki/Database)
-- Data Warehouses (https://en.wikipedia.org/wiki/Data_warehouse)
-- ETLs/ELTs (https://en.wikipedia.org/wiki/Extract,_transform,_load)
-- Business Intelligence (https://en.wikipedia.org/wiki/Business_intelligence)
-- Big Data (https://en.wikipedia.org/wiki/Big_data)
-- In-Memory Databases (https://en.wikipedia.org/wiki/In-memory_database)
-- NoSQL Databases (https://en.wikipedia.org/wiki/NoSQL)
-- Data Lakes (https://en.wikipedia.org/wiki/Data_lake)
-- Distributed Data Mesh (https://martinfowler.com/articles/data-monolith-to-mesh.html)
+- [Data](https://en.wikipedia.org/wiki/Data)
+- [Databases](https://en.wikipedia.org/wiki/Database)
+- [Data Warehouses](https://en.wikipedia.org/wiki/Data_warehouse)
+- [ETLs/ELTs](https://en.wikipedia.org/wiki/Extract,_transform,_load)
+- [Business Intelligence](https://en.wikipedia.org/wiki/Business_intelligence)
+- [Big Data](https://en.wikipedia.org/wiki/Big_data)
+- [In-Memory Databases](https://en.wikipedia.org/wiki/In-memory_database)
+- [NoSQL Databases](https://en.wikipedia.org/wiki/NoSQL)
+- [Data Lakes](https://en.wikipedia.org/wiki/Data_lake)
+- [Distributed Data Mesh](https://martinfowler.com/articles/data-monolith-to-mesh.html)
 
 # Ch 03: Data & ML/AI
-- Data Analysis (https://en.wikipedia.org/wiki/Data_analysis)
-- Statistics (https://en.wikipedia.org/wiki/Statistics)
-- Machine Learning (https://en.wikipedia.org/wiki/Machine_learning)
-- Deep Learning (https://en.wikipedia.org/wiki/Deep_learning)
-- Artificial Intelligence (https://en.wikipedia.org/wiki/Artificial_intelligence)
+- [Data Analysis](https://en.wikipedia.org/wiki/Data_analysis)
+- [Statistics](https://en.wikipedia.org/wiki/Statistics)
+- [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
+- [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning)
+- [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
 
 # Ch 04: Data & Cloud
-- Cloud Computing (https://en.wikipedia.org/wiki/Cloud_computing)
+- [Cloud Computing](https://en.wikipedia.org/wiki/Cloud_computing)
 - Cloud Services
 - Data Servuces on Cloud
 - AWS
@@ -60,23 +67,29 @@ This is still work in progress, kindly provide your feedback on [ankitrathi.com]
 - Azure
 
 # Ch 05: Data & DevOps
-- DevOps (https://en.wikipedia.org/wiki/DevOps)
+- [DevOps](https://en.wikipedia.org/wiki/DevOps)
 - CI/CD
 - Tools & Services
 
 # Ch 06: Data & Governance
-- Data Management (https://en.wikipedia.org/wiki/Data_management)
-- Data Governance (https://en.wikipedia.org/wiki/Data_governance)
-- Data Architecture (https://en.wikipedia.org/wiki/Data_architecture)
-- Data Security (https://en.wikipedia.org/wiki/Computer_security)
+- [Data Management](https://en.wikipedia.org/wiki/Data_management)
+- [Data Governance](https://en.wikipedia.org/wiki/Data_governance)
+- [Data Architecture](https://en.wikipedia.org/wiki/Data_architecture)
+- [Data Security](https://en.wikipedia.org/wiki/Computer_security)
 
-# Ch 07: Building Data Platform
-- Layout Data Strategy
-- Define Data Governance
-- Build Data Architecture
-- TBD
+# Ch 07: Define Data Governance
 
-# Ch 08: Conclusion
+# Ch 08: Architect Data Platform
+
+# Ch 09: Identify Data & Use Cases
+
+# Ch 10: Select Right Components
+
+# Ch 11: Develop Applications
+
+# Ch 12: Maintain Applications
+
+# Ch 13: Conclusion
 
 # Resources & References
 
