@@ -4,28 +4,21 @@
 This is still work in progress, kindly provide your feedback on [ankitrathi.com](http://ankitrathi.com/)
 
 
-
-![alt text](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Resources/AI-DIY-Cover.jpg)
-
 ## Table of Contents
-- [Ch0: About the Book](https://ankitrathi169.github.io/#ch0-about-the-book)
-
-### PART I: Foundation
 
 
-### PART II: DATA
+
+### PART I: DATA
 
 
-### PART III: ANALYTICS
+### PART II: ANALYTICS
 
 
-### PART IV: CLOUD
+### PART III: CLOUD
 
 
-### PART V: DEVOPS
+### PART IV: DEVOPS
 
-
-### PART I: Foundation
 
 # Resources & References
 
@@ -52,3 +45,6 @@ This is still work in progress, kindly provide your feedback on [ankitrathi.com]
 - [CS 109B: Advanced Topics in Data Science by Pavlos Protopapas and Mark Glickman](https://harvard-iacs.github.io/2019-CS109B/)
 
 - [Interpretable Machine Learning: A Guide for Making Black Box Models Explainable by Christoph Molnar](https://christophm.github.io/interpretable-ml-book/)
+
+Cover
+![alt text](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Resources/AI-DIY-Cover.jpg)
