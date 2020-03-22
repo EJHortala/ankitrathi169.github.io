@@ -8,18 +8,20 @@ This is still work in progress, kindly provide your feedback on [ankitrathi.com]
 
 ## Table of Contents
 
-### Ch 01: About The Book
-### Ch 02: Introduction
-### Ch 03: Data Evolution
-### Ch 04: Analytics to ML/AI
-### Ch 05: Cloud Computing
-### Ch 06: DevOps
-### Ch 07: Data Management
+### Ch 00: About The Book
+### Ch 01: Introduction
+### Ch 02: Data & Systems
+### Ch 03: Data & Analytics/ML/AI
+### Ch 04: Data & Cloud
+### Ch 05: Data & DevOps
+### Ch 06: Data & Governance
+### Ch 07: Building Data Platform
 ### Ch 08: Conclusion
 
 
 # Ch 00: About The Book
-- Motivation
+- Why this book?
+- Who should read this book?
 
 # Ch 01: Introduction
 
@@ -28,19 +30,53 @@ This is still work in progress, kindly provide your feedback on [ankitrathi.com]
 - Data & Analytics/ML/AI
 - Data & Cloud
 - Data & DevOps
-- Data & Management
+- Data & Governance
 
 # Ch 02: Data & Systems
+- Data (https://en.wikipedia.org/wiki/Data)
+- Databases (https://en.wikipedia.org/wiki/Database)
+- Data Warehouses (https://en.wikipedia.org/wiki/Data_warehouse)
+- ETLs/ELTs (https://en.wikipedia.org/wiki/Extract,_transform,_load)
+- Business Intelligence (https://en.wikipedia.org/wiki/Business_intelligence)
+- Big Data (https://en.wikipedia.org/wiki/Big_data)
+- In-Memory Databases (https://en.wikipedia.org/wiki/In-memory_database)
+- NoSQL Databases (https://en.wikipedia.org/wiki/NoSQL)
+- Data Lakes (https://en.wikipedia.org/wiki/Data_lake)
+- Distributed Data Mesh (https://martinfowler.com/articles/data-monolith-to-mesh.html)
 
 # Ch 03: Data & ML/AI
+- Data Analysis (https://en.wikipedia.org/wiki/Data_analysis)
+- Statistics (https://en.wikipedia.org/wiki/Statistics)
+- Machine Learning (https://en.wikipedia.org/wiki/Machine_learning)
+- Deep Learning (https://en.wikipedia.org/wiki/Deep_learning)
+- Artificial Intelligence (https://en.wikipedia.org/wiki/Artificial_intelligence)
 
 # Ch 04: Data & Cloud
+- Cloud Computing (https://en.wikipedia.org/wiki/Cloud_computing)
+- Cloud Services
+- Data Servuces on Cloud
+- AWS
+- GCP
+- Azure
 
 # Ch 05: Data & DevOps
+- DevOps (https://en.wikipedia.org/wiki/DevOps)
+- CI/CD
+- Tools & Services
 
-# Ch 06: Data & Management
+# Ch 06: Data & Governance
+- Data Management (https://en.wikipedia.org/wiki/Data_management)
+- Data Governance (https://en.wikipedia.org/wiki/Data_governance)
+- Data Architecture (https://en.wikipedia.org/wiki/Data_architecture)
+- Data Security (https://en.wikipedia.org/wiki/Computer_security)
 
-# Ch 07: Conclusion
+# Ch 07: Building Data Platform
+- Layout Data Strategy
+- Define Data Governance
+- Build Data Architecture
+- TBD
+
+# Ch 08: Conclusion
 
 # Resources & References
 
