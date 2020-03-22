@@ -6,19 +6,14 @@ This is still work in progress, kindly provide your feedback on [ankitrathi.com]
 
 ## Table of Contents
 
-
-
-### PART I: DATA
-
-
-### PART II: ANALYTICS
-
-
-### PART III: CLOUD
-
-
-### PART IV: DEVOPS
-
+### Ch 01: About The Book
+### Ch 02: Introduction
+### Ch 03: Data Evolution
+### Ch 04: Analytics to ML/AI
+### Ch 05: Cloud Computing
+### Ch 06: DevOps
+### Ch 07: Data Management
+### Ch 08: Conclusion
 
 # Resources & References
 
