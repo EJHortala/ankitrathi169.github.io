@@ -46,5 +46,5 @@ This is still work in progress, kindly provide your feedback on [ankitrathi.com]
 
 - [Interpretable Machine Learning: A Guide for Making Black Box Models Explainable by Christoph Molnar](https://christophm.github.io/interpretable-ml-book/)
 
-Cover
-![alt text](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Resources/AI-DIY-Cover.jpg)
+# Cover
+![alt text](https://github.com/ankitrathi169/ankitrathi169.github.io/blob/master/Resources/BuildingMDP-Cover.jpg)
