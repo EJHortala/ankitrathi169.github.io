@@ -17,6 +17,31 @@ This is still work in progress, kindly provide your feedback on [ankitrathi.com]
 ### Ch 07: Data Management
 ### Ch 08: Conclusion
 
+
+# Ch 00: About The Book
+- Motivation
+
+# Ch 01: Introduction
+
+- The Big Picture
+- Data & Systems
+- Data & Analytics/ML/AI
+- Data & Cloud
+- Data & DevOps
+- Data & Management
+
+# Ch 02: Data & Systems
+
+# Ch 03: Data & ML/AI
+
+# Ch 04: Data & Cloud
+
+# Ch 05: Data & DevOps
+
+# Ch 06: Data & Management
+
+# Ch 07: Conclusion
+
 # Resources & References
 
 - [AI For Everyone by Andrew Ng](https://www.deeplearning.ai/ai-for-everyone/)
